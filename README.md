@@ -44,3 +44,19 @@ Después de crear el usuario, ejecuta los siguientes comandos en la misma consol
     airflow webserver
     airflow scheduler
 ```
+
+6.**Salir de la Consola de Airflow**
+Puedes salir de la consola de Airflow con el comando exit.
+```bash
+    exit
+```
+
+7.**Acceso a la Interfaz de Usuario de Airflow**
+Puedes acceder a la interfaz de usuario de Airflow abriendo un navegador y navegando a:
+```bash
+    http://localhost:8080
+```
+O en su defecto.
+```bash
+    http://localhost:8081
+```
