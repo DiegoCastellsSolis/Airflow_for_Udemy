@@ -3,7 +3,6 @@ version: '3.8'
 services:
   postgres:
     image: postgres:13
-    hostname: postgres
     environment:
       POSTGRES_USER: airflow
       POSTGRES_PASSWORD: airflow
