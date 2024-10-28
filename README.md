@@ -29,7 +29,7 @@ Abre una terminal y ejecuta el siguiente comando para levantar la instancia de D
 Una vez que los contenedores estén en funcionamiento, accede a la consola de Airflow utilizando el siguiente comando:  
 ```bash
     echo "Ingresando a la consola de Airflow"
-    docker exec -it airflow-pgadmin-metabase-airflow-1 bash
+    docker exec -it docker-airflow-pgadmin-metabase-airflow-1 bash
 ```
 
 4.**Crear un Usuario de Airflow**

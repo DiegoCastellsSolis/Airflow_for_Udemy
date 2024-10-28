@@ -1,0 +1,6 @@
+A partir del path de coneccion 
+
+connection_string = f"postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}"
+
+
+se pueden i

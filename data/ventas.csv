@@ -1,0 +1,1003 @@
+NOMBRE,CONTENIDO
+VENTAS.TXT (sale_id,sale_date,product_name,product_category,region,quantity_sold,unit_price,unit_cost,customer_name
+1,11/20/2022,Product A,Clothing,Asia,787,458.18,398.02,Saba Elbourn
+2,5/2/2022,Product B,Clothing,Asia,447,304.59,330.13,Remington Henrie
+3,2/4/2022,Product B,Electronics,North America,462,155.14,191.48,Irwin Bashford
+4,11/29/2021,Product A,Home Goods,Europe,386,864.57,301.81,Porty Purdey
+5,11/27/2021,Product C,Electronics,Europe,877,579.6,164.4,Jeni Winsiowiecki
+6,7/3/2020,Product C,Home Goods,North America,662,868.42,19.84,Crysta Buckam
+7,2/23/2021,Product C,Clothing,Europe,262,426.29,326.88,Bernie Aldam
+8,1/2/2021,Product A,Electronics,Europe,375,321.81,449.4,Muire Joliffe
+9,8/21/2020,Product B,Home Goods,Asia,887,202.63,473.33,Antonietta Hanhardt
+10,11/12/2022,Product C,Electronics,Asia,726,697.43,445.35,Marylee Sandle
+11,10/28/2021,Product A,Electronics,North America,608,544.25,18.73,Burk Elphick
+12,10/26/2021,Product B,Electronics,Europe,214,806.74,133.91,Aura Howitt
+13,7/20/2020,Product A,Electronics,Europe,996,373.75,110.05,Halsey Baggett
+14,11/25/2022,Product B,Home Goods,Europe,844,858.63,292.31,Florella Meys
+15,9/9/2021,Product C,Clothing,North America,438,284.89,354.3,Blinnie Peers
+16,11/18/2022,Product A,Clothing,Asia,541,117.94,248.99,Nanete Linggood
+17,12/15/2021,Product A,Electronics,Europe,512,218.84,246.94,Tallie Bainton
+18,5/16/2020,Product C,Clothing,Europe,699,71.29,96.29,Cassy Frostdicke
+19,6/3/2022,Product B,Home Goods,Asia,567,913.82,145.47,Berri Ferrettino
+20,10/16/2020,Product B,Clothing,Asia,413,654.8,281.27,Janina Pagan
+21,1/24/2020,Product B,Home Goods,Europe,319,846.08,168.78,Nicholle Cadding
+22,2/10/2021,Product B,Clothing,Asia,319,740.49,323.27,Tamra O'Calleran
+23,7/25/2022,Product A,Clothing,North America,385,484.12,297.75,Lucy Santarelli
+24,1/14/2020,Product B,Home Goods,Asia,781,346.23,57.9,Deedee Braben
+25,4/15/2022,Product A,Electronics,North America,10,30.94,116.44,Hilliard Winslow
+26,7/30/2022,Product B,Home Goods,Europe,434,955.28,55.27,Priscilla Riddle
+27,4/5/2021,Product B,Electronics,North America,745,814.77,8.86,Jamie Thyng
+28,2/15/2021,Product A,Electronics,Europe,364,790.74,21.67,Sophi Colliard
+29,4/21/2022,Product A,Home Goods,North America,669,558.26,45.88,Alfons Chesterton
+30,6/19/2020,Product B,Home Goods,Europe,173,603.27,258.69,Harrietta Mugford
+31,9/17/2022,Product B,Electronics,Asia,22,434.29,390.74,Robinetta Espadate
+32,8/28/2020,Product B,Home Goods,North America,522,3.71,132.88,Kimmie Henstone
+33,5/30/2020,Product B,Clothing,Europe,725,544.81,319.0,Scotty Domone
+34,9/5/2020,Product C,Clothing,Asia,486,558.0,491.13,Billie Axell
+35,11/20/2021,Product C,Clothing,Europe,689,424.89,88.97,Goran Bunny
+36,2/5/2020,Product C,Electronics,Asia,283,443.71,317.07,Leanor Domerq
+37,6/13/2020,Product A,Clothing,Asia,476,110.31,335.8,Kirbee Pfeuffer
+38,5/23/2022,Product A,Home Goods,Europe,134,253.57,117.69,Doretta Lavallie
+39,3/27/2021,Product B,Home Goods,Europe,789,778.9,33.64,Arlana Hansman
+40,5/12/2022,Product A,Clothing,Asia,166,792.83,466.02,Nanci Izakson
+41,2/29/2020,Product C,Electronics,Europe,48,898.54,77.39,Forester Stollmeyer
+42,1/27/2022,Product B,Clothing,North America,973,899.99,386.23,Weber Kilfether
+43,9/2/2020,Product A,Electronics,Europe,923,9.25,46.0,Wye McGrorty
+44,1/18/2020,Product B,Clothing,Europe,316,525.59,31.49,Benedetta Tinson
+45,11/28/2021,Product A,Electronics,Europe,971,826.33,297.77,Mariya Poundford
+46,11/9/2021,Product C,Home Goods,Europe,280,578.43,117.84,Derril Winkworth
+47,12/4/2020,Product A,Electronics,Europe,232,563.99,441.29,Ronda Maffeo
+48,8/22/2021,Product C,Clothing,Europe,981,813.36,266.47,Tabitha Gladwish
+49,5/26/2020,Product B,Home Goods,Europe,630,30.83,190.72,Nevil Tattersfield
+50,1/19/2020,Product A,Electronics,North America,576,602.06,25.76,Shirlee Glenny
+51,2/26/2020,Product A,Clothing,North America,172,345.25,475.66,Archibald Giampietro
+52,11/20/2020,Product A,Home Goods,Europe,453,639.2,0.62,Terence Liddiard
+53,4/6/2020,Product A,Electronics,Europe,189,929.37,135.08,Ronalda Farge
+54,12/10/2020,Product C,Clothing,Asia,853,642.68,385.57,Carlota Ship
+55,8/26/2021,Product B,Clothing,Europe,517,385.7,435.12,Diahann Grimmert
+56,6/8/2020,Product B,Clothing,North America,556,321.19,259.38,Nyssa Mertin
+57,10/18/2022,Product B,Home Goods,North America,746,166.98,118.71,Reeba Heliet
+58,4/14/2022,Product C,Clothing,North America,666,823.73,67.54,Betteanne Cassimer
+59,11/5/2021,Product C,Home Goods,Europe,322,680.37,322.35,Clem Collingwood
+60,12/5/2020,Product A,Electronics,Europe,669,890.58,471.72,Margalo Hymor
+61,7/5/2021,Product A,Clothing,North America,196,206.17,145.73,Odilia Tillman
+62,2/21/2020,Product B,Electronics,Europe,330,144.31,55.96,Sauncho Ladds
+63,4/25/2020,Product A,Home Goods,Europe,198,803.18,372.84,Meier Monkhouse
+64,4/5/2021,Product A,Home Goods,Europe,204,75.96,143.09,Sibeal Doucette
+65,8/16/2020,Product B,Clothing,North America,816,64.95,145.22,Maurene Tucker
+66,7/7/2020,Product A,Electronics,North America,252,570.58,273.77,Natividad Deniso
+67,8/1/2022,Product C,Clothing,Asia,973,794.46,121.1,Corilla Wornum
+68,1/21/2022,Product B,Electronics,Europe,229,572.79,76.83,Sigrid Cranson
+69,1/9/2022,Product C,Clothing,North America,519,685.58,156.19,Cati Cockhill
+70,7/13/2022,Product A,Electronics,Europe,171,900.96,153.17,Renie Rottgers
+71,5/18/2021,Product A,Clothing,North America,119,942.0,155.62,Cissy Gaspero
+72,11/19/2022,Product A,Clothing,North America,390,344.61,345.17,Avril Fendlow
+73,4/19/2021,Product C,Electronics,North America,866,105.34,497.18,Anitra Henker
+74,5/8/2021,Product A,Electronics,Europe,635,768.68,304.56,Mandi Serrels
+75,10/10/2021,Product C,Home Goods,North America,547,788.69,474.62,Schuyler Matuskiewicz
+76,8/23/2022,Product B,Electronics,Asia,700,181.3,203.58,Trudey Pothecary
+77,7/9/2021,Product A,Electronics,Europe,15,17.27,34.16,Oates Shambrooke
+78,12/2/2020,Product B,Home Goods,Asia,492,624.09,472.89,Lilian Farrey
+79,9/19/2021,Product B,Home Goods,North America,314,49.07,281.41,Ab Winters
+80,12/31/2020,Product B,Home Goods,North America,24,477.49,303.49,Hill Andreassen
+81,7/8/2022,Product C,Home Goods,Europe,175,576.72,31.13,Bibi Curror
+82,12/3/2022,Product C,Clothing,Europe,595,894.51,53.35,Shel Pratley
+83,6/24/2022,Product B,Home Goods,Asia,693,720.78,359.18,Clayson Chidwick
+84,7/21/2021,Product B,Clothing,Europe,964,858.65,217.14,Barret Gateman
+85,8/17/2021,Product A,Electronics,North America,12,803.96,392.38,Innis Brooke
+86,10/11/2022,Product C,Clothing,Europe,616,361.1,101.7,Anneliese Flageul
+87,2/25/2022,Product C,Clothing,Asia,431,931.11,231.99,Rogerio Busson
+88,7/31/2022,Product B,Electronics,North America,308,725.47,38.31,Hebert Sabin
+89,6/22/2020,Product C,Home Goods,North America,371,486.91,32.66,Melany Upsale
+90,9/26/2021,Product C,Home Goods,Europe,337,629.14,70.95,Timoteo Bisco
+91,7/29/2022,Product C,Electronics,Europe,48,251.01,137.94,Daffie Woolrich
+92,12/4/2020,Product B,Electronics,Asia,60,978.43,239.74,Dame Tudge
+93,3/26/2020,Product B,Clothing,North America,369,554.34,284.82,Doti Dewen
+94,1/18/2022,Product B,Home Goods,Europe,325,757.01,479.69,Cello Starmont
+95,1/25/2022,Product C,Electronics,Europe,562,358.35,223.74,Mora Baylis
+96,3/25/2020,Product B,Electronics,North America,273,888.78,281.87,Fraser Philipps
+97,5/20/2021,Product A,Electronics,North America,557,688.96,217.27,Lanie Leirmonth
+98,3/29/2021,Product B,Electronics,North America,967,894.07,244.79,Madella Domnin
+99,12/5/2022,Product A,Clothing,Asia,418,732.8,353.93,Davina Faulo
+100,1/16/2020,Product A,Clothing,Europe,523,605.13,338.81,Isa Gribble
+101,5/30/2022,Product B,Electronics,North America,140,877.04,297.1,Saundra Frake
+102,8/28/2022,Product A,Electronics,Europe,691,831.94,456.0,Mildrid Tissier
+103,11/1/2022,Product A,Electronics,North America,619,117.52,301.99,Renaldo Staines
+104,12/9/2020,Product A,Home Goods,North America,404,429.76,70.24,Giulia Jaggs
+105,7/12/2021,Product A,Home Goods,Asia,808,598.91,293.6,Waldo Lindsell
+106,4/22/2021,Product C,Home Goods,North America,219,90.31,435.25,Kimberlyn Goodee
+107,3/15/2021,Product B,Home Goods,Europe,990,550.2,134.28,Silvia Reyne
+108,11/16/2021,Product A,Home Goods,Asia,83,121.98,136.57,Vera Funnell
+109,11/15/2021,Product C,Electronics,North America,491,459.44,432.08,Crissy Gatlin
+110,3/18/2020,Product A,Electronics,Asia,895,759.26,150.98,Loree Ingyon
+111,3/12/2020,Product A,Home Goods,North America,807,57.53,81.5,Collen MacShane
+112,4/19/2021,Product B,Home Goods,North America,949,585.0,303.06,Kelcey Laidel
+113,11/9/2022,Product A,Clothing,Asia,79,650.38,13.07,Kissie Lanon
+114,7/24/2021,Product C,Electronics,Europe,672,423.62,105.06,Joannes McCloughen
+115,6/13/2022,Product A,Clothing,North America,462,78.49,11.48,Herrick Nevitt
+116,8/28/2022,Product C,Clothing,Europe,953,701.13,286.49,Travus Smitten
+117,6/25/2021,Product C,Electronics,North America,266,955.39,498.0,Stormy Labell
+118,4/25/2021,Product A,Electronics,Asia,760,774.7,199.43,Murdoch Stoneley
+119,6/27/2021,Product A,Electronics,North America,169,321.48,227.91,Demetre Capaldi
+120,2/25/2020,Product B,Home Goods,North America,667,574.96,263.3,Davide Ferier
+121,10/11/2021,Product C,Clothing,Asia,226,605.34,267.11,Shelton Buffery
+122,4/8/2022,Product B,Home Goods,Europe,289,264.87,439.32,Britteny Guerola
+123,5/10/2021,Product B,Home Goods,Europe,187,968.37,360.68,Brynne Losemann
+124,4/7/2021,Product A,Home Goods,North America,820,186.12,354.58,Marijn Tickner
+125,10/6/2020,Product A,Home Goods,Asia,692,36.92,236.29,Micky Alderton
+126,6/17/2020,Product A,Electronics,Europe,663,205.27,293.04,Onfroi Trustram
+127,7/11/2020,Product A,Clothing,Europe,655,578.34,121.35,Barry Minichi
+128,11/24/2022,Product B,Clothing,North America,469,585.19,302.18,Lonnard Fulloway
+129,6/15/2021,Product B,Clothing,North America,345,516.16,218.35,Pinchas Winspur
+130,8/7/2022,Product C,Electronics,Europe,658,592.12,339.84,Lisabeth Grimsell
+131,10/8/2021,Product C,Home Goods,Asia,188,462.96,413.66,Katti Prozescky
+132,1/9/2022,Product C,Electronics,North America,613,81.75,176.52,Andros Brimacombe
+133,8/11/2021,Product A,Clothing,Europe,523,714.67,47.08,Garreth Tither
+134,4/4/2020,Product A,Electronics,North America,741,533.49,436.21,Georgiana MacPhee
+135,1/26/2020,Product C,Clothing,Asia,765,825.63,118.09,Vanny Beedom
+136,5/27/2022,Product B,Electronics,North America,709,268.03,139.52,Ethel Cockayme
+137,11/7/2020,Product B,Electronics,Europe,140,781.26,203.0,Chloe Currell
+138,2/25/2022,Product B,Clothing,Asia,654,340.16,456.89,Consuela Ollis
+139,12/25/2021,Product C,Clothing,North America,150,27.33,491.94,Leonora Atthowe
+140,4/8/2021,Product A,Electronics,Asia,925,139.45,481.27,Maurene Mattersley
+141,7/31/2020,Product C,Clothing,Europe,672,518.76,245.22,Martin Krimmer
+142,6/15/2020,Product B,Home Goods,North America,146,887.17,463.14,Aliza Dollar
+143,11/20/2020,Product C,Home Goods,Europe,24,537.23,299.67,Dore Kime
+144,8/9/2020,Product A,Electronics,North America,587,239.12,98.55,Anna Rhymes
+145,7/18/2022,Product B,Electronics,Asia,509,206.11,154.36,Lana Izhakov
+146,11/22/2022,Product C,Electronics,North America,885,667.16,308.22,Lilia Amoss
+147,6/29/2021,Product A,Home Goods,Europe,621,654.84,410.91,Jone Drake
+148,5/3/2020,Product A,Clothing,North America,806,151.0,114.34,Eric Bainbrigge
+149,3/1/2021,Product A,Home Goods,North America,57,544.41,264.88,Wanids Purves
+150,11/26/2020,Product B,Electronics,Europe,592,95.92,321.99,Nanice Mumm
+151,3/25/2022,Product A,Clothing,Europe,576,188.63,25.82,Simone Latham
+152,1/28/2021,Product A,Clothing,North America,409,660.6,68.94,Lion Chitson
+153,3/11/2021,Product B,Home Goods,Asia,262,552.9,181.26,Josy Millmoe
+154,4/2/2022,Product B,Clothing,Asia,381,515.06,44.16,Kaye Gallgher
+155,10/15/2021,Product A,Electronics,Europe,736,61.29,169.96,Silvanus Askie
+156,2/18/2022,Product A,Electronics,Asia,989,298.86,23.89,Earlie Ismay
+157,3/29/2021,Product B,Electronics,Europe,728,762.33,16.86,Lesley Sunner
+158,1/4/2021,Product C,Clothing,Europe,221,384.38,467.26,Maurise Nelligan
+159,9/14/2021,Product A,Home Goods,Europe,407,773.75,173.54,Jorie Mammatt
+160,8/5/2021,Product B,Home Goods,Europe,719,728.29,3.75,Idaline Oman
+161,3/17/2021,Product B,Home Goods,Europe,749,686.19,146.96,Christye Dowtry
+162,1/3/2022,Product B,Electronics,North America,910,502.13,37.0,Eydie Hasley
+163,10/3/2021,Product C,Electronics,Europe,314,865.13,15.88,Ewart Walley
+164,10/28/2021,Product A,Home Goods,Europe,544,561.52,391.35,Annice Doring
+165,1/7/2021,Product A,Clothing,North America,669,738.77,30.53,Joye Tales
+166,2/26/2021,Product B,Electronics,Europe,11,480.73,283.7,Dedie Phillimore
+167,5/30/2020,Product C,Electronics,Europe,909,151.69,203.03,Nikola O'Lahy
+168,6/20/2021,Product B,Clothing,Asia,711,11.47,368.22,Lidia Bramo
+169,5/11/2020,Product A,Clothing,Europe,206,56.07,421.42,Maddy Bothams
+170,6/5/2022,Product A,Clothing,North America,21,174.38,61.03,Poul Denyagin
+171,4/24/2020,Product A,Home Goods,North America,461,212.08,285.89,Milly Jertz
+172,5/26/2021,Product C,Clothing,Asia,910,742.0,321.07,Genevra Dufton
+173,3/5/2021,Product A,Home Goods,Asia,448,878.44,35.83,Wynn McArthur
+174,9/3/2022,Product C,Clothing,Europe,986,953.92,472.05,Goldina Belmont
+175,9/24/2021,Product B,Home Goods,Asia,309,79.0,46.27,Krystalle Christy
+176,2/1/2020,Product B,Clothing,Europe,803,620.77,94.05,Harcourt Mellows
+177,9/30/2021,Product B,Home Goods,Asia,664,736.85,371.67,Andy Duck
+178,1/13/2021,Product C,Electronics,Asia,9,395.8,274.21,Elicia Poppy
+179,12/26/2022,Product C,Home Goods,Europe,998,829.15,278.01,Ursulina Coult
+180,11/30/2020,Product B,Clothing,Europe,533,513.46,0.71,Bryana Kleuer
+181,12/4/2021,Product A,Home Goods,Asia,147,250.2,167.3,Marlene Pragnell
+182,4/13/2022,Product B,Electronics,North America,6,735.71,182.6,Golda Pietersma
+183,9/30/2021,Product B,Electronics,North America,805,90.56,485.28,Garvey Itscovitz
+184,8/11/2022,Product A,Home Goods,Asia,194,651.91,343.48,Clarence Childers
+185,10/21/2021,Product B,Home Goods,Europe,983,167.64,40.74,Coralyn Arguile
+186,8/17/2020,Product B,Electronics,Europe,774,610.47,431.89,Patton Jickles
+187,10/25/2022,Product B,Home Goods,Europe,941,518.72,307.86,Mischa Knill
+188,1/23/2020,Product B,Electronics,North America,618,573.7,316.94,Cinnamon Stormont
+189,3/3/2020,Product B,Clothing,Europe,2,758.21,471.85,Shelley Braim
+190,11/19/2020,Product C,Home Goods,Europe,424,935.82,258.88,Nanine Kuban
+191,8/24/2020,Product C,Home Goods,North America,893,135.23,264.78,Megan Smallman
+192,2/1/2021,Product C,Home Goods,North America,112,234.46,452.83,Saunderson Kopta
+193,12/26/2022,Product A,Home Goods,Asia,586,935.51,328.68,Murvyn Kondrachenko
+194,9/7/2020,Product B,Clothing,Europe,829,227.06,222.8,Issi Largent
+195,3/16/2022,Product B,Electronics,Europe,449,952.09,96.63,Deni Beldom
+196,3/10/2020,Product C,Clothing,North America,687,792.44,201.55,Leonid Quartley
+197,4/22/2020,Product A,Electronics,Europe,229,898.09,360.83,Ingaborg Illsley
+198,11/16/2022,Product A,Electronics,Asia,987,993.68,185.39,Pail Beecraft
+199,11/22/2021,Product B,Clothing,North America,397,215.03,427.04,Arni Hulance
+200,6/23/2020,Product B,Electronics,North America,908,632.24,202.35,Lynnet MacGilmartin
+201,5/1/2020,Product B,Home Goods,North America,833,921.49,27.19,Shina Kemwall
+202,4/25/2021,Product B,Electronics,North America,962,114.16,380.75,Brandon Ackery
+203,9/21/2020,Product B,Clothing,Asia,625,92.73,391.11,Wendell Whinray
+204,9/6/2020,Product B,Clothing,Europe,773,220.24,355.16,Homer Railton
+205,4/22/2021,Product C,Clothing,Europe,769,959.94,155.22,Evelyn Reede
+206,5/15/2022,Product C,Clothing,Europe,736,693.23,264.64,Britni Pegden
+207,11/19/2020,Product C,Electronics,Asia,46,56.43,373.49,Jerry Napoleon
+208,2/21/2022,Product B,Home Goods,Europe,707,339.78,87.55,Riccardo Renshall
+209,2/22/2020,Product B,Home Goods,Europe,668,647.27,471.22,Jules Meadmore
+210,8/27/2020,Product C,Electronics,North America,512,487.79,452.66,Britni Perrot
+211,9/22/2020,Product A,Electronics,Asia,517,126.11,151.04,Vaughan Dalla
+212,6/1/2022,Product B,Home Goods,Europe,990,242.11,355.9,Marion Oxteby
+213,3/28/2020,Product B,Electronics,Europe,222,249.34,164.48,Pat Clausius
+214,5/18/2020,Product C,Clothing,Asia,491,782.18,228.26,Demetri Sandcraft
+215,4/13/2020,Product A,Clothing,Asia,201,23.24,391.44,Jamie Kinghorne
+216,5/5/2020,Product B,Electronics,Europe,906,936.07,215.24,Patience Rames
+217,11/6/2021,Product A,Electronics,Asia,788,690.04,20.13,Dell Langlands
+218,11/29/2020,Product A,Home Goods,Europe,466,286.87,33.3,Tiebold Wakefield
+219,12/1/2022,Product C,Electronics,North America,77,998.04,428.61,Levon Perchard
+220,3/21/2022,Product B,Clothing,North America,808,995.0,215.18,Raddie Kenninghan
+221,10/3/2020,Product B,Electronics,Asia,332,830.58,395.38,Nicol Tillett
+222,6/30/2020,Product A,Electronics,Asia,813,874.8,426.57,Fancie Yakunin
+223,2/10/2021,Product C,Clothing,Europe,406,530.12,116.45,Sheri Ivie
+224,8/29/2020,Product C,Electronics,Asia,142,301.1,266.96,Agosto Gendrich
+225,4/1/2022,Product C,Home Goods,Asia,124,919.3,378.9,Edward Vern
+226,1/5/2020,Product B,Clothing,Asia,758,241.12,239.91,Neil Meredith
+227,12/3/2021,Product A,Home Goods,Asia,852,588.85,198.45,Courtnay Commins
+228,6/5/2021,Product B,Electronics,Europe,635,409.64,295.35,Gill Briant
+229,8/12/2020,Product B,Clothing,Asia,948,417.73,418.7,Laurent Comello
+230,9/10/2020,Product C,Electronics,Europe,19,733.66,469.13,Ted Caldecot
+231,7/30/2021,Product B,Electronics,Europe,865,669.62,195.36,Brit Ramsden
+232,4/23/2021,Product B,Electronics,Asia,432,692.84,41.27,Estrella Cursey
+233,11/3/2020,Product C,Electronics,North America,16,273.53,393.23,Hanni Neary
+234,4/26/2020,Product A,Electronics,Asia,433,307.68,442.19,Winfield Secker
+235,9/16/2021,Product C,Home Goods,Asia,750,559.18,87.62,Bard Macrae
+236,6/13/2020,Product C,Clothing,Europe,379,976.1,135.77,Levon Silcox
+237,9/3/2020,Product A,Home Goods,Asia,512,607.91,361.01,Raquel Lemery
+238,4/16/2020,Product C,Home Goods,North America,309,676.87,137.4,Lurleen Orris
+239,9/10/2020,Product B,Home Goods,Asia,744,21.0,2.46,Tammi Bysaker
+240,12/25/2020,Product C,Home Goods,Europe,618,831.14,238.52,Corette Batalle
+241,10/30/2020,Product A,Home Goods,North America,419,130.9,159.42,Albrecht Bazeley
+242,10/26/2022,Product B,Electronics,North America,504,261.9,444.55,Derek Frenchum
+243,9/27/2021,Product A,Home Goods,North America,320,871.71,7.02,Jayme Giovanni
+244,6/10/2021,Product B,Electronics,Europe,959,879.27,72.11,Berti Double
+245,5/31/2020,Product C,Clothing,North America,268,864.21,57.32,Mair Nellis
+246,7/14/2020,Product C,Clothing,Asia,10,237.52,49.61,Genovera De Hooch
+247,8/31/2022,Product A,Home Goods,Asia,713,12.38,97.55,Nani Tessington
+248,9/5/2020,Product B,Clothing,North America,385,7.02,111.01,Ambrose Sproson
+249,1/4/2020,Product A,Home Goods,Europe,376,667.31,55.71,Dodi Hillyatt
+250,5/19/2020,Product B,Home Goods,Asia,190,330.3,33.3,Horace Flori
+251,9/17/2021,Product C,Electronics,Europe,619,382.93,416.35,Lenora Lynde
+252,6/17/2021,Product B,Home Goods,Asia,833,76.13,209.29,Matt Mounfield
+253,10/7/2021,Product A,Clothing,North America,586,854.67,273.35,Patricia Russell
+254,7/19/2021,Product C,Electronics,Europe,206,288.97,60.08,Braden Maynard
+255,6/2/2022,Product C,Home Goods,Europe,899,109.2,278.67,Bree Kyne
+256,10/25/2021,Product A,Clothing,Asia,573,518.65,373.61,Gunar Larvin
+257,11/22/2022,Product B,Electronics,North America,177,359.76,140.57,Honoria Smalecombe
+258,5/6/2021,Product A,Clothing,Europe,564,300.77,170.06,Englebert McVey
+259,12/30/2022,Product A,Electronics,North America,663,361.27,486.32,Luella Temby
+260,8/4/2020,Product B,Home Goods,North America,164,613.52,2.57,Idalina Brislan
+261,8/17/2021,Product A,Home Goods,Europe,669,24.07,306.22,Brinna Bremley
+262,10/24/2021,Product C,Home Goods,North America,951,710.1,439.38,Averill Davern
+263,7/10/2021,Product B,Electronics,Asia,180,450.87,407.28,Lynnet Ionnidis
+264,7/26/2021,Product A,Electronics,Asia,566,865.87,353.31,Rorie Heijnen
+265,1/10/2022,Product C,Clothing,Asia,822,929.84,464.79,Aida Anslow
+266,11/12/2022,Product B,Electronics,Europe,609,109.91,470.79,Valaree Reynalds
+267,5/11/2022,Product C,Electronics,North America,784,892.07,370.77,Garvy Sanger
+268,1/4/2022,Product B,Home Goods,North America,172,192.82,429.89,Skye Grece
+269,2/7/2021,Product B,Electronics,Asia,550,892.18,4.44,Harp Redsell
+270,8/5/2022,Product A,Home Goods,Asia,863,690.5,362.11,Celestia Neil
+271,12/8/2020,Product C,Clothing,North America,49,681.42,30.57,Inger Mewton
+272,4/23/2021,Product A,Home Goods,Asia,794,554.71,239.31,Waldon Baughn
+273,2/1/2021,Product A,Home Goods,Asia,10,658.81,74.68,Hana Lamboll
+274,11/16/2021,Product B,Home Goods,Asia,584,354.27,280.16,Chastity Theaker
+275,9/20/2020,Product B,Clothing,Europe,285,599.89,369.78,Laraine Hupe
+276,1/2/2020,Product C,Clothing,Europe,985,722.76,74.85,Johann Peare
+277,5/25/2021,Product B,Clothing,North America,90,473.66,236.05,Guillemette Downes
+278,10/20/2021,Product C,Clothing,North America,105,147.89,459.19,Christoforo Dilrew
+279,3/9/2020,Product A,Home Goods,Asia,994,864.7,243.67,Gaven Benninck
+280,1/10/2021,Product C,Electronics,Europe,948,752.56,186.09,Buckie Lamberth
+281,3/6/2022,Product A,Home Goods,Europe,857,411.46,164.36,Avery Esslement
+282,6/20/2022,Product A,Electronics,North America,893,71.86,164.42,Neal Dickons
+283,10/31/2021,Product A,Electronics,Asia,723,88.76,22.33,Jana Mattheissen
+284,10/11/2020,Product C,Electronics,Europe,721,618.61,104.14,Hervey Atthowe
+285,11/20/2022,Product B,Home Goods,Europe,367,140.65,493.91,Ardra Ilyasov
+286,6/25/2021,Product C,Electronics,Asia,286,789.18,145.27,Glen Pee
+287,4/21/2022,Product C,Clothing,North America,173,303.52,335.58,Ernest Van
+288,7/25/2021,Product B,Home Goods,Asia,28,867.93,140.65,Inglebert O'Spillane
+289,6/2/2021,Product B,Clothing,North America,374,617.16,261.87,Kelli Eagleston
+290,7/31/2022,Product A,Clothing,North America,190,528.08,169.69,Quentin Hammatt
+291,8/21/2022,Product C,Electronics,Europe,690,902.04,81.81,Si Brittlebank
+292,8/2/2020,Product A,Electronics,Europe,705,99.52,213.24,Devy O'Leary
+293,12/20/2021,Product C,Home Goods,Europe,164,332.75,81.77,Francoise Crewe
+294,7/17/2020,Product B,Clothing,Asia,306,275.51,282.9,Devlen Efford
+295,5/30/2020,Product B,Clothing,Asia,164,206.83,6.76,Henriette Blanch
+296,8/2/2021,Product C,Home Goods,Europe,112,138.43,230.89,Jefferson Tootin
+297,10/7/2022,Product C,Clothing,Asia,549,852.65,196.18,Caty Abrey
+298,11/15/2020,Product C,Clothing,Europe,412,565.05,81.81,Rutherford McAw
+299,11/15/2022,Product B,Clothing,North America,740,383.14,17.38,Bartlet Prettyjohn
+300,9/4/2020,Product C,Electronics,North America,97,753.32,315.69,Antonius Mooreed
+301,6/3/2022,Product A,Clothing,Asia,811,755.31,377.3,Kyle Olivie
+302,3/27/2021,Product C,Clothing,Asia,862,991.46,370.24,Junia Weld
+303,5/23/2021,Product A,Clothing,North America,657,428.65,340.36,Keen Kelleway
+304,4/9/2021,Product C,Clothing,North America,878,974.97,411.81,Ansel O' Markey
+305,6/10/2022,Product C,Clothing,Asia,795,200.25,108.66,Niall Angelo
+306,12/18/2021,Product A,Clothing,Asia,126,848.38,483.16,Tammi Blennerhassett
+307,12/28/2021,Product A,Electronics,Asia,579,802.05,453.73,Nicholas Fyall
+308,5/18/2021,Product A,Clothing,Europe,688,284.95,102.47,Neill Gabites
+309,1/3/2020,Product A,Home Goods,Asia,73,936.7,47.07,Forrest McGraffin
+310,8/30/2020,Product B,Clothing,Europe,596,719.94,388.1,Rois Strood
+311,3/14/2022,Product B,Clothing,Asia,392,795.33,297.87,Ervin Vinick
+312,1/12/2022,Product A,Clothing,Asia,1,154.88,351.15,Lenci Osler
+313,12/23/2022,Product A,Clothing,Asia,280,838.86,162.03,Blanca Kornilov
+314,2/19/2022,Product C,Home Goods,Europe,211,151.86,311.71,Winston Timson
+315,8/9/2022,Product A,Home Goods,North America,309,972.63,291.69,Edan Hoyer
+316,12/16/2020,Product A,Electronics,North America,233,578.0,441.52,Corabella Redholls
+317,8/24/2022,Product B,Clothing,Asia,332,711.67,461.67,Britt Arundel
+318,5/21/2020,Product C,Home Goods,Asia,81,154.15,397.6,Herc Whybray
+319,2/3/2022,Product C,Home Goods,Europe,602,601.43,117.66,Bald Driffill
+320,1/2/2021,Product B,Clothing,Europe,907,500.05,49.09,Jermaine Fripp
+321,12/5/2020,Product C,Clothing,Asia,143,593.42,477.11,Stanford Beak
+322,1/28/2020,Product A,Clothing,North America,311,711.86,21.96,Valene Garrod
+323,5/18/2021,Product A,Clothing,Asia,817,681.3,261.02,Robbin Renn
+324,7/27/2022,Product A,Home Goods,Asia,583,70.09,158.89,Milzie Porter
+325,1/5/2020,Product C,Clothing,Asia,378,477.98,218.01,Oralee Balasini
+326,8/11/2020,Product A,Electronics,Europe,830,721.41,156.89,Joannes Witherden
+327,5/10/2021,Product B,Home Goods,North America,33,526.88,137.88,Karisa Fordy
+328,8/5/2020,Product A,Clothing,North America,645,69.34,80.67,Mamie Clawe
+329,2/7/2020,Product B,Home Goods,Asia,225,548.66,309.36,Dukie Gouldthorpe
+330,11/1/2022,Product A,Clothing,Europe,169,128.47,162.58,Reginauld Hazael
+331,4/10/2021,Product A,Home Goods,Asia,927,366.78,447.7,Elsey O'Donohue
+332,5/12/2022,Product B,Clothing,Europe,634,195.71,395.45,Grethel Rasper
+333,11/24/2022,Product A,Clothing,Asia,686,541.58,178.06,Glenda McRavey
+334,7/21/2022,Product B,Clothing,North America,263,186.05,92.98,Nikolaus Doctor
+335,2/9/2022,Product C,Clothing,Europe,716,887.68,38.99,Prent Culshew
+336,4/9/2020,Product C,Clothing,Europe,189,115.77,72.78,Genvieve Harriss
+337,3/11/2020,Product B,Home Goods,North America,893,609.46,415.52,Lanny Parrett
+338,2/17/2022,Product B,Clothing,North America,842,588.66,225.51,Natty Costin
+339,12/12/2022,Product C,Electronics,Asia,193,235.58,372.14,Maddy Beamiss
+340,12/22/2020,Product B,Home Goods,Asia,359,469.31,64.24,Sioux Grundy
+341,12/17/2022,Product A,Home Goods,North America,985,875.56,90.4,Terence Jaycox
+342,12/22/2020,Product B,Home Goods,North America,595,33.48,381.78,Roderick Stook
+343,5/10/2022,Product B,Clothing,North America,262,684.47,174.0,Jasmin Gillease
+344,9/7/2020,Product A,Electronics,Asia,890,789.9,137.22,Ellery Luke
+345,8/2/2022,Product C,Home Goods,Asia,967,120.09,297.77,Ilysa True
+346,10/3/2022,Product B,Electronics,Asia,929,253.59,154.95,Briana Scandwright
+347,9/29/2021,Product C,Home Goods,North America,673,312.42,499.45,Connie Nazaret
+348,3/24/2020,Product C,Home Goods,Europe,779,429.07,435.78,Madelle Shippam
+349,10/10/2020,Product A,Electronics,North America,720,315.01,336.38,Rutherford Andersch
+350,1/7/2020,Product C,Home Goods,Asia,978,20.46,372.57,Wally MacIlraith
+351,4/4/2021,Product B,Electronics,Asia,832,848.71,46.96,Kass MacKniely
+352,3/28/2021,Product B,Electronics,Asia,521,899.89,187.78,Randa McGarrell
+353,3/26/2020,Product C,Home Goods,Europe,791,211.07,485.12,Rosalinde Squibb
+354,4/23/2022,Product B,Electronics,North America,157,844.15,222.86,Meta Bernholt
+355,1/13/2022,Product B,Clothing,Asia,725,93.71,107.43,Walt Drynan
+356,8/4/2022,Product C,Electronics,North America,751,664.49,303.98,Enrichetta Stack
+357,3/19/2020,Product B,Home Goods,North America,659,829.16,178.32,Honoria Redolfi
+358,4/23/2021,Product A,Electronics,Europe,168,613.05,228.5,Dayna Northcote
+359,5/6/2022,Product A,Electronics,Europe,663,328.04,95.34,Violette Siddele
+360,10/11/2021,Product A,Home Goods,Asia,604,901.35,495.22,Calli Mil
+361,6/16/2021,Product C,Clothing,North America,90,166.94,297.19,Korey Shopcott
+362,2/17/2021,Product C,Clothing,Europe,350,608.97,401.13,Margie Wilbud
+363,7/22/2022,Product A,Clothing,Asia,639,310.09,450.31,Ros Moggach
+364,3/25/2020,Product A,Clothing,North America,710,652.74,117.33,Courtney Runciman
+365,8/24/2021,Product B,Electronics,Europe,899,605.91,379.35,Wanids Hildred
+366,8/8/2021,Product B,Home Goods,Europe,805,400.96,252.54,Elisabetta Stodhart
+367,10/15/2020,Product A,Clothing,North America,716,894.71,467.42,Berte Saich
+368,1/16/2022,Product C,Clothing,Asia,476,193.09,329.71,Christophorus Gruczka
+369,1/24/2021,Product C,Clothing,North America,625,689.53,411.36,Annamaria Jakes
+370,6/7/2021,Product C,Electronics,North America,841,756.83,20.01,Adey Euels
+371,12/21/2021,Product A,Electronics,Europe,986,4.83,99.09,Veradis Melladew
+372,7/16/2022,Product B,Electronics,North America,789,975.12,34.37,Michelle Meco
+373,1/28/2022,Product A,Electronics,North America,266,728.08,13.19,Alana Cockill
+374,7/8/2021,Product A,Home Goods,Europe,667,313.39,116.37,Nadia Zanetto
+375,3/19/2021,Product C,Electronics,Asia,627,980.95,35.21,Taber Penson
+376,5/8/2021,Product C,Clothing,Asia,888,151.31,440.11,Rodina Sterry
+377,1/26/2020,Product A,Home Goods,North America,557,13.19,164.51,Branden Water
+378,11/11/2020,Product B,Clothing,Asia,641,18.44,215.9,Alicea Pracy
+379,3/17/2022,Product A,Clothing,Europe,965,272.15,12.97,Ermin Locock
+380,12/9/2020,Product A,Electronics,Asia,100,470.47,437.3,Erskine Barrows
+381,1/20/2021,Product A,Home Goods,North America,584,915.81,236.1,Natassia Elmer
+382,9/17/2022,Product A,Home Goods,North America,418,431.64,148.24,Jocko Tuckie
+383,3/24/2021,Product B,Home Goods,North America,704,266.33,371.41,Ingaberg Leger
+384,9/23/2020,Product A,Electronics,Asia,386,375.39,343.93,Lannie Milsted
+385,8/8/2021,Product C,Electronics,North America,330,926.78,153.04,Betsey Eccleston
+386,4/19/2022,Product B,Electronics,Europe,642,667.41,199.18,Darrin Keston
+387,8/29/2022,Product B,Clothing,Europe,740,982.25,231.98,Colver Geldeard
+388,1/14/2020,Product A,Clothing,Europe,309,164.19,296.65,Donaugh Fitzjohn
+389,10/20/2020,Product C,Electronics,Europe,649,934.7,446.97,Gamaliel Winspare
+390,10/1/2020,Product A,Home Goods,North America,3,638.72,72.74,Charisse Cruikshanks
+391,4/25/2021,Product C,Clothing,Asia,770,252.17,429.56,Barthel Kinnen
+392,4/27/2020,Product A,Electronics,Asia,97,20.81,463.53,Nomi Leek
+393,6/5/2021,Product B,Clothing,Europe,498,338.95,65.86,Putnam Keener
+394,8/8/2022,Product B,Clothing,North America,173,514.81,173.05,Yalonda Perott
+395,8/15/2021,Product A,Home Goods,Europe,310,776.75,302.96,Davida Eringey
+396,7/20/2021,Product B,Clothing,Europe,566,633.13,88.48,Husain Brann
+397,11/1/2020,Product B,Clothing,North America,305,453.58,223.49,Cassandre Hedge
+398,4/2/2021,Product B,Home Goods,Europe,480,60.33,58.07,Alyssa Waulker
+399,12/6/2021,Product A,Home Goods,Europe,920,298.77,401.14,Joice Finders
+400,2/28/2020,Product C,Clothing,Europe,704,460.83,331.31,My Gammel
+401,4/12/2022,Product C,Electronics,North America,953,259.66,308.56,Riane Harnell
+402,7/30/2021,Product C,Home Goods,Asia,73,888.53,120.58,Anastasie Wandrach
+403,2/2/2022,Product C,Electronics,North America,615,507.65,314.31,Glyn Fylan
+404,6/18/2022,Product B,Clothing,Europe,467,810.75,422.85,Elwyn Pummell
+405,2/12/2022,Product A,Home Goods,Asia,379,699.42,498.44,Linnell Lanyon
+406,12/4/2021,Product A,Electronics,Asia,240,585.45,59.97,Lucila Moth
+407,8/26/2020,Product B,Home Goods,Europe,966,411.47,320.38,Kassey Glazzard
+408,8/5/2021,Product C,Home Goods,Europe,678,700.01,481.19,Anstice Oram
+409,12/28/2022,Product A,Clothing,North America,850,914.71,393.83,Roseline Clifft
+410,2/9/2020,Product C,Home Goods,Asia,863,227.59,359.0,Iver Knott
+411,11/18/2022,Product A,Clothing,Asia,710,888.63,253.84,Chadwick Capstake
+412,8/23/2021,Product B,Home Goods,Asia,230,798.83,238.23,Foster Rigardeau
+413,7/1/2020,Product C,Home Goods,Asia,527,815.69,171.32,Becca Coghlan
+414,4/1/2021,Product A,Home Goods,North America,922,450.96,286.33,Renee Kulvear
+415,12/1/2021,Product C,Electronics,Europe,894,508.2,372.12,Roma Tyrone
+416,2/5/2021,Product A,Home Goods,North America,100,836.88,258.68,Alexi Brampton
+417,11/5/2020,Product A,Clothing,Europe,486,539.55,432.99,Norah Kemme
+418,4/4/2020,Product A,Home Goods,North America,264,571.03,45.53,Teodoro Gatheral
+419,11/30/2021,Product A,Clothing,North America,306,154.82,36.07,Dix Flynn
+420,11/21/2021,Product A,Clothing,Asia,399,154.41,42.03,Nealson McCuffie
+421,4/22/2020,Product C,Home Goods,Asia,483,105.66,459.89,Christalle Vahey
+422,11/26/2020,Product A,Clothing,North America,447,221.65,448.8,Kim Tubby
+423,1/8/2022,Product B,Home Goods,North America,836,358.68,146.83,Holt Pykerman
+424,11/27/2021,Product A,Clothing,North America,362,322.48,284.47,Vincents Mallinar
+425,9/8/2021,Product C,Electronics,Europe,740,804.82,491.03,Lavina Hearns
+426,6/4/2022,Product B,Home Goods,Europe,363,406.17,157.5,Trixi Dryden
+427,7/28/2020,Product B,Electronics,North America,876,928.62,154.76,Lori Schultz
+428,3/3/2020,Product C,Home Goods,Europe,311,344.62,469.81,Nicki Windress
+429,9/26/2022,Product C,Clothing,Europe,927,768.2,233.23,Arlyn Vlasenkov
+430,12/2/2022,Product B,Clothing,Asia,300,714.12,352.89,Oralle Gyse
+431,11/4/2021,Product A,Electronics,North America,349,209.92,339.56,Julita Hugli
+432,9/11/2021,Product C,Home Goods,Europe,15,189.73,284.64,Melloney Binestead
+433,2/27/2020,Product B,Clothing,Asia,846,755.36,166.74,Candide Argent
+434,6/27/2020,Product C,Electronics,Europe,474,942.39,55.68,Emelina Weld
+435,12/31/2021,Product B,Electronics,Asia,162,754.04,185.76,Lynda Learmont
+436,2/23/2020,Product B,Home Goods,Asia,14,95.35,182.09,Hewe Jurgensen
+437,2/5/2020,Product A,Clothing,Europe,464,920.8,84.53,Tressa Kibbee
+438,4/25/2021,Product B,Electronics,Europe,616,227.44,352.91,Chester Dudgeon
+439,8/27/2021,Product C,Electronics,North America,410,261.18,260.26,Christin Ambler
+440,12/8/2020,Product B,Electronics,Europe,314,628.15,372.35,Talbert Mackie
+441,10/10/2020,Product C,Clothing,Asia,807,529.94,470.89,Ariel Sussex
+442,4/8/2021,Product A,Electronics,North America,680,957.06,400.19,Lothaire Nequest
+443,11/4/2020,Product B,Clothing,North America,256,69.1,171.56,Dulcie Sails
+444,3/14/2022,Product A,Clothing,Asia,701,763.05,303.12,Joshuah Mowat
+445,5/23/2022,Product B,Home Goods,Europe,103,157.6,390.13,Else Bullas
+446,2/23/2021,Product A,Clothing,North America,385,269.3,382.68,Imelda Mattheis
+447,4/23/2022,Product C,Clothing,Asia,121,678.22,212.68,Daniela Aylott
+448,9/19/2020,Product A,Electronics,Europe,211,585.8,111.29,Devlen Wivell
+449,2/1/2020,Product A,Clothing,Europe,902,713.24,466.49,Waverley Soles
+450,5/19/2021,Product B,Electronics,North America,549,764.78,379.38,Johnathan Renachowski
+451,7/20/2022,Product C,Home Goods,North America,530,128.71,409.87,Marney Seed
+452,2/11/2020,Product C,Electronics,Asia,878,709.21,100.54,Ailsun Cassimer
+453,4/25/2022,Product B,Clothing,Asia,51,839.54,399.62,Helli Ilchuk
+454,11/25/2022,Product A,Electronics,Europe,801,724.34,449.97,Euphemia Guilliatt
+455,11/8/2022,Product A,Electronics,Asia,646,521.63,405.27,Dorris Mussington
+456,3/14/2022,Product C,Electronics,Asia,334,652.33,468.52,Kerrin Colaco
+457,2/6/2020,Product C,Electronics,Asia,266,182.47,394.31,Virge Klesl
+458,4/15/2021,Product A,Clothing,Europe,335,687.31,2.09,Karoline Lovie
+459,6/29/2022,Product B,Home Goods,Europe,569,281.31,344.59,Deina Santore
+460,2/10/2020,Product A,Electronics,Europe,862,269.59,159.14,Wyatan Hellings
+461,8/18/2020,Product C,Clothing,Asia,714,122.07,18.75,Collete Warr
+462,9/9/2022,Product A,Electronics,Europe,72,218.28,35.04,Dewey Weeden
+463,11/6/2021,Product A,Electronics,Europe,928,384.2,328.07,Jethro Sheahan
+464,10/20/2021,Product B,Electronics,North America,674,712.91,373.52,Sacha Hounson
+465,4/1/2021,Product C,Home Goods,Europe,631,40.65,0.86,Ottilie Prate
+466,5/27/2021,Product B,Clothing,North America,39,116.56,134.14,Ozzie Wharram
+467,7/19/2020,Product C,Home Goods,Asia,152,312.59,167.47,Jodie Gillon
+468,7/9/2022,Product A,Electronics,Asia,895,844.84,1.79,Barr McGivena
+469,6/10/2020,Product B,Electronics,Asia,343,828.97,166.63,Ethelyn Lemon
+470,3/8/2021,Product B,Home Goods,Asia,166,264.79,133.46,Lindon Mancer
+471,10/26/2022,Product C,Clothing,North America,686,506.01,413.13,Pierrette Thormwell
+472,8/11/2022,Product B,Electronics,Europe,399,781.17,185.46,Vladimir Fawkes
+473,12/1/2020,Product C,Electronics,Europe,117,225.49,430.72,Mata Pavlovsky
+474,9/26/2022,Product B,Home Goods,Asia,504,377.38,441.12,Anstice Bryer
+475,5/17/2022,Product A,Electronics,North America,103,918.2,265.28,Myra Studart
+476,8/13/2020,Product B,Electronics,Europe,615,323.14,261.3,Giacinta Doran
+477,4/23/2021,Product B,Electronics,Europe,863,121.8,85.83,Liva Luckin
+478,5/4/2020,Product B,Clothing,Europe,528,687.89,342.23,Ginnifer Monkley
+479,2/15/2020,Product C,Electronics,Europe,835,86.82,259.47,Lou McGibbon
+480,12/22/2020,Product A,Electronics,North America,551,831.03,75.21,Halli Greger
+481,2/28/2020,Product A,Clothing,Asia,575,960.65,203.82,Tove Gage
+482,12/15/2020,Product C,Clothing,Europe,966,931.34,164.82,Aila Heugh
+483,9/12/2021,Product B,Home Goods,Asia,559,63.06,276.88,Jereme Ormistone
+484,5/16/2020,Product A,Clothing,Europe,315,97.37,186.62,Wally Postin
+485,7/11/2021,Product B,Clothing,Asia,640,193.95,470.65,Thedric Kordovani
+486,4/2/2021,Product B,Home Goods,Asia,205,265.67,109.81,Brendan Harrald
+487,4/13/2020,Product C,Home Goods,Europe,777,544.92,19.88,Marti Tackell
+488,2/13/2021,Product C,Home Goods,Europe,926,788.11,222.5,Ramon Nellen
+489,9/13/2021,Product C,Home Goods,North America,86,730.87,74.61,Mohandis De Bruijne
+490,4/30/2022,Product B,Electronics,North America,492,761.79,43.67,Pru Polini
+491,1/24/2020,Product C,Clothing,North America,551,553.15,171.84,Bale Vasilyev
+492,11/13/2022,Product A,Clothing,Europe,861,320.39,385.48,Lelia McIlherran
+493,2/12/2020,Product A,Home Goods,North America,829,601.14,308.31,Mathilde Reese
+494,4/21/2021,Product C,Electronics,Europe,521,1.5,396.51,Lin Sambells
+495,1/17/2022,Product C,Home Goods,Europe,372,808.84,472.2,Selina Hanley
+496,12/2/2022,Product A,Electronics,Europe,443,582.75,224.16,Gene Cockarill
+497,12/5/2021,Product B,Home Goods,North America,214,334.28,210.77,Kathleen Laite
+498,2/25/2022,Product B,Clothing,North America,73,578.26,387.21,Edgard Cosham
+499,2/22/2020,Product A,Electronics,North America,52,544.04,256.19,Rodd McEnery
+500,6/20/2020,Product C,Home Goods,Asia,975,729.18,142.19,Dorice Cordell
+501,8/20/2021,Product A,Home Goods,Asia,866,245.51,92.27,Debra Tumulty
+502,2/8/2022,Product C,Electronics,Asia,892,741.78,225.67,Rosetta Searchfield
+503,1/29/2020,Product A,Electronics,North America,368,458.49,175.16,Ronna Henzer
+504,1/23/2022,Product B,Home Goods,North America,329,492.51,376.59,Ignace Soot
+505,7/1/2021,Product C,Home Goods,Europe,63,282.07,229.42,Garvin Gothliff
+506,4/15/2020,Product C,Clothing,North America,370,715.06,64.27,Kristel Mohammed
+507,3/3/2021,Product C,Electronics,Europe,944,714.16,258.55,Helsa Lightbowne
+508,3/10/2022,Product B,Home Goods,Asia,495,435.63,315.24,Kacey Antonoyev
+509,8/23/2022,Product C,Home Goods,Europe,361,113.32,125.69,Claire Hillborne
+510,6/7/2021,Product C,Electronics,Asia,952,762.69,287.31,Ronni Double
+511,6/14/2022,Product C,Electronics,North America,773,518.37,398.09,Ware McNally
+512,1/21/2021,Product C,Electronics,Europe,553,531.64,312.07,Tarah Gerrard
+513,9/19/2020,Product C,Clothing,North America,861,398.84,338.8,Amii Canland
+514,7/23/2020,Product A,Clothing,North America,585,187.43,207.06,Veradis Cast
+515,4/16/2020,Product A,Home Goods,Asia,228,513.14,267.32,Dorelle Hargie
+516,1/6/2022,Product A,Home Goods,North America,408,504.47,214.42,Lorna Dring
+517,1/7/2022,Product B,Home Goods,North America,564,657.71,491.73,Erv Hunnable
+518,3/25/2020,Product A,Electronics,Asia,340,143.81,161.8,Ibby Simeoli
+519,10/16/2022,Product C,Home Goods,Europe,442,589.38,188.02,Chip Codron
+520,3/18/2021,Product C,Clothing,Europe,893,191.83,426.09,Ferris Anfossi
+521,6/13/2020,Product C,Home Goods,Asia,868,42.62,67.51,Billye Figgins
+522,7/7/2020,Product B,Clothing,Europe,177,19.71,242.98,Wilmette Jumeau
+523,9/5/2021,Product A,Clothing,Europe,915,77.65,234.77,Elga McIlraith
+524,3/8/2020,Product C,Home Goods,Asia,817,945.74,88.62,Laureen McPeeters
+525,12/20/2020,Product C,Clothing,Europe,859,301.83,118.23,Koressa McShee
+526,5/17/2020,Product A,Home Goods,Europe,426,252.66,99.23,Caro Cassius
+527,5/13/2021,Product C,Home Goods,Asia,357,488.0,191.6,Kendre Gorger
+528,6/16/2020,Product B,Electronics,North America,999,644.28,353.56,Zorana O'Doherty
+529,2/1/2021,Product B,Home Goods,Europe,769,789.72,374.11,Pavia Kleiner
+530,3/31/2020,Product A,Clothing,Asia,947,234.6,475.69,Goddart Lagde
+531,2/4/2022,Product A,Home Goods,Europe,334,869.57,379.77,Kaela Shayes
+532,6/25/2022,Product A,Clothing,North America,461,780.4,46.87,Maurice Bernade
+533,10/3/2020,Product C,Electronics,Europe,169,145.04,271.73,Charmain MacMoyer
+534,1/13/2020,Product B,Home Goods,North America,963,584.75,434.42,Harri Dailly
+535,4/12/2020,Product A,Home Goods,North America,329,257.92,437.56,Derek Aiken
+536,11/19/2022,Product A,Clothing,Europe,271,564.65,133.85,Kalina Tirkin
+537,8/11/2022,Product B,Electronics,North America,581,296.85,374.31,Tobey Clapham
+538,7/10/2022,Product B,Home Goods,Europe,884,626.35,74.62,Maire De Leek
+539,12/7/2020,Product C,Electronics,North America,365,240.65,312.2,Alys Swinnard
+540,6/4/2021,Product B,Electronics,Europe,437,411.08,433.92,Rebecka Burkart
+541,6/18/2021,Product A,Home Goods,North America,987,724.28,332.93,Frazier MacEntee
+542,10/3/2022,Product A,Clothing,Europe,835,860.29,58.81,Logan Klulicek
+543,2/5/2022,Product A,Clothing,North America,780,784.95,160.65,Robina McCabe
+544,9/11/2021,Product B,Clothing,North America,237,11.78,426.9,Chanda Forber
+545,11/17/2022,Product C,Home Goods,Asia,742,645.93,346.66,Lefty Doughill
+546,7/30/2020,Product A,Home Goods,Asia,554,507.9,453.55,Michell Steddall
+547,4/22/2021,Product B,Clothing,Asia,596,526.49,209.58,Shandie Grishmanov
+548,9/4/2020,Product A,Clothing,North America,582,647.71,85.96,Alan Casperri
+549,12/4/2022,Product A,Home Goods,Asia,194,62.22,329.67,Elias Yele
+550,11/4/2020,Product A,Electronics,North America,314,520.86,343.94,Em Brettle
+551,4/25/2020,Product B,Electronics,Asia,767,223.49,52.37,Lavinia Steggles
+552,1/15/2022,Product B,Electronics,North America,29,706.38,176.82,Adam Owen
+553,7/14/2020,Product A,Home Goods,Europe,495,774.4,249.94,Elnore Conneely
+554,1/19/2021,Product C,Home Goods,Asia,679,573.88,179.57,Claire Ianiello
+555,12/9/2020,Product A,Electronics,North America,126,562.15,60.15,Dom McQuarter
+556,11/15/2022,Product A,Electronics,North America,212,343.92,385.73,Lynnet Kiddye
+557,9/29/2020,Product B,Clothing,Europe,725,204.83,267.51,Valentino Hoyes
+558,3/4/2020,Product A,Electronics,North America,17,23.2,282.59,Gigi Verdey
+559,12/29/2021,Product C,Home Goods,Asia,931,913.56,80.46,Peadar Patshull
+560,10/17/2022,Product B,Clothing,Europe,608,139.25,60.35,Darnall Alfwy
+561,8/18/2022,Product B,Electronics,Europe,446,915.7,49.21,Friederike Heinel
+562,12/11/2020,Product C,Home Goods,Asia,458,470.7,123.37,Chandler Ralls
+563,9/13/2020,Product B,Electronics,Asia,147,671.31,375.65,Kimberly Kettlestringe
+564,6/7/2022,Product B,Electronics,Europe,720,34.17,167.58,Jammal Bruhnke
+565,1/16/2022,Product C,Home Goods,North America,385,496.99,238.56,Evie Reedshaw
+566,7/19/2022,Product C,Home Goods,Europe,707,952.69,458.6,Lilla Kirkwood
+567,8/13/2021,Product B,Clothing,North America,202,60.74,408.15,Paddie Garside
+568,7/21/2020,Product A,Electronics,Europe,949,553.32,42.7,Major Weymont
+569,11/19/2020,Product C,Clothing,Asia,299,833.28,135.34,Franklyn Burgill
+570,5/13/2022,Product A,Clothing,North America,677,429.52,7.84,Denver Tace
+571,3/31/2021,Product B,Home Goods,Asia,102,543.51,493.16,Dulcine Baume
+572,12/25/2021,Product C,Electronics,Asia,678,246.78,106.77,Terencio Decreuze
+573,11/17/2022,Product A,Clothing,Europe,330,281.47,43.98,Irma Mushrow
+574,12/31/2021,Product C,Electronics,Asia,368,707.77,212.98,Mariel Bramelt
+575,8/12/2022,Product B,Electronics,Europe,572,632.2,268.33,Cly McGennis
+576,3/2/2021,Product A,Electronics,Asia,39,368.72,296.77,Cleve Hawkslee
+577,7/19/2020,Product C,Clothing,North America,819,357.28,106.36,Omero McCullouch
+578,9/14/2022,Product C,Electronics,North America,218,925.6,202.02,Christoph Spindler
+579,1/26/2022,Product A,Electronics,North America,22,208.96,248.98,Taber Aizikowitz
+580,3/5/2022,Product C,Electronics,Asia,527,824.19,47.27,Winnifred Ibbett
+581,1/5/2022,Product C,Home Goods,Europe,913,564.38,446.58,Van Camamile
+582,3/9/2020,Product B,Home Goods,North America,832,907.63,36.59,Liv Orrock
+583,7/24/2020,Product B,Electronics,Europe,261,232.89,487.21,Valene Dacca
+584,2/6/2021,Product B,Home Goods,Europe,382,550.5,121.19,Fancy Torregiani
+585,5/1/2021,Product C,Clothing,Asia,406,921.5,462.66,Xylina Wetter
+586,1/27/2020,Product B,Clothing,Europe,456,694.16,321.38,Niko Kull
+587,6/5/2022,Product C,Clothing,North America,506,471.61,204.19,Maurise Wilby
+588,11/28/2022,Product B,Electronics,Asia,852,900.98,87.83,Lem Eccleston
+589,4/8/2021,Product C,Electronics,Asia,842,711.03,131.97,Priscella Eveling
+590,9/3/2020,Product C,Clothing,Asia,45,773.82,6.05,Phineas Kaminski
+591,4/14/2021,Product C,Home Goods,North America,16,549.04,472.23,Burke Hyett
+592,8/23/2022,Product A,Clothing,Asia,934,103.93,64.79,Sydney Lashley
+593,11/30/2021,Product C,Home Goods,North America,175,146.18,436.76,Filberto Maybury
+594,9/26/2021,Product C,Electronics,Asia,839,717.62,176.91,Lura Bollis
+595,12/11/2021,Product C,Home Goods,Europe,365,881.42,267.18,Teddy Beckerleg
+596,11/13/2020,Product A,Home Goods,Asia,966,81.09,159.87,Cleve Delamaine
+597,7/26/2021,Product A,Electronics,North America,200,957.28,108.55,Leroi Atwool
+598,6/13/2020,Product A,Home Goods,Asia,589,748.11,454.26,Pearl Hedges
+599,4/8/2022,Product C,Clothing,North America,149,253.37,456.28,Karola McLanaghan
+600,4/3/2021,Product C,Clothing,North America,713,124.93,408.81,Desiree Sucre
+601,8/5/2021,Product B,Home Goods,Europe,225,749.01,285.88,Marin Colleton
+602,10/21/2022,Product B,Electronics,Asia,213,894.43,100.5,Kev Bathoe
+603,10/2/2022,Product C,Home Goods,Asia,835,700.59,113.68,Kent Shergill
+604,6/8/2021,Product C,Home Goods,North America,894,206.77,121.4,Ashton Lillie
+605,6/2/2020,Product C,Home Goods,Asia,586,852.69,55.36,Kaine Fenner
+606,5/10/2021,Product B,Clothing,Asia,842,985.73,195.85,Stevana Knight
+607,6/2/2022,Product A,Home Goods,Asia,795,955.43,179.74,Jessie Tumber
+608,3/22/2022,Product A,Home Goods,Asia,311,634.58,137.47,Dalila Audsley
+609,12/18/2021,Product C,Home Goods,Europe,954,764.15,434.8,Darius Lashford
+610,6/28/2020,Product A,Clothing,North America,628,930.54,347.08,Saundra Linkin
+611,9/19/2022,Product B,Clothing,North America,273,593.16,352.8,Rosetta Laskey
+612,9/12/2021,Product B,Clothing,Asia,501,405.94,17.65,Olav Dennistoun
+613,7/19/2021,Product A,Electronics,Europe,136,414.89,72.51,Tonie Laboune
+614,7/22/2022,Product A,Electronics,Asia,315,230.98,201.88,Caldwell Mercer
+615,4/8/2021,Product A,Electronics,Asia,896,107.94,339.63,Tedman Ringwood
+616,12/21/2021,Product A,Home Goods,Europe,113,518.61,1.35,Kariotta Sparke
+617,7/17/2020,Product A,Electronics,North America,626,734.89,169.72,Joya Leipoldt
+618,2/16/2021,Product C,Home Goods,Europe,676,987.44,121.24,Kylie Nealon
+619,5/7/2021,Product B,Home Goods,Europe,561,105.84,201.32,Rowen Atherley
+620,6/20/2020,Product B,Clothing,Europe,461,495.87,33.6,Hersch Carden
+621,8/6/2020,Product A,Clothing,Asia,180,496.83,433.41,Rodina Willowby
+622,2/21/2021,Product B,Electronics,Asia,556,976.69,340.29,Rosetta Collinwood
+623,10/16/2021,Product A,Electronics,Asia,325,208.8,4.23,Lonna Malan
+624,1/9/2022,Product B,Home Goods,Asia,913,711.35,305.86,Elke Hebborn
+625,11/16/2020,Product A,Clothing,Asia,985,433.62,28.93,Fonzie Lecount
+626,6/18/2020,Product B,Home Goods,Asia,309,142.11,114.35,Becca Considine
+627,8/19/2021,Product A,Home Goods,North America,124,901.09,67.0,Gwen Pech
+628,2/21/2022,Product A,Electronics,Asia,703,879.92,197.2,Nehemiah Congreve
+629,12/23/2022,Product C,Home Goods,Asia,790,248.93,201.44,Paulie McQuirk
+630,2/9/2021,Product A,Electronics,Asia,365,17.23,490.55,Shane Rideout
+631,10/11/2022,Product A,Clothing,Europe,86,128.29,101.2,Odele Prestney
+632,8/18/2022,Product A,Clothing,Europe,852,446.02,443.04,Lolly Cometson
+633,1/16/2022,Product A,Clothing,North America,727,617.16,207.72,Urbain Trotton
+634,2/22/2021,Product C,Home Goods,Asia,884,672.3,68.79,Lonnie Kill
+635,8/7/2022,Product A,Home Goods,Europe,741,235.87,436.42,Robbyn Jouhandeau
+636,2/11/2022,Product A,Home Goods,Europe,665,156.39,104.49,Kinna Darcy
+637,6/15/2020,Product C,Clothing,North America,872,98.95,351.94,Murdoch Biever
+638,9/29/2022,Product C,Home Goods,North America,478,541.36,202.48,Delano Lambdean
+639,11/25/2021,Product B,Clothing,Europe,297,587.11,167.28,Svend Toderbrugge
+640,9/3/2020,Product B,Clothing,Asia,84,571.03,371.65,Annetta Badsey
+641,1/26/2020,Product C,Home Goods,Asia,860,618.08,302.34,Thorsten Lipscomb
+642,1/6/2021,Product B,Home Goods,Europe,641,910.77,4.58,Aimil Lack
+643,8/9/2020,Product A,Home Goods,North America,28,432.44,293.89,Stepha Collop
+644,1/18/2022,Product A,Electronics,North America,657,641.57,212.42,Nickie Heinecke
+645,8/30/2020,Product A,Clothing,Asia,971,725.4,274.35,Etti Danilchik
+646,8/14/2020,Product A,Electronics,Europe,781,966.45,167.84,Shayna Nitti
+647,1/21/2020,Product C,Clothing,Europe,785,792.81,420.4,Ernaline Keyzor
+648,3/21/2021,Product C,Electronics,Asia,447,744.82,358.9,Zachariah Cowdery
+649,7/15/2020,Product B,Electronics,Asia,914,961.21,260.7,Oswald Moriarty
+650,12/25/2020,Product A,Home Goods,Asia,5,274.3,340.81,Karrie Coole
+651,6/15/2020,Product B,Clothing,Asia,678,864.14,2.85,Jae Crean
+652,11/25/2020,Product C,Home Goods,Asia,954,569.94,168.87,Sonnie Kingsmill
+653,10/23/2022,Product B,Electronics,Europe,696,291.17,54.28,Anett Conboy
+654,3/14/2020,Product A,Electronics,Asia,289,740.31,208.25,Kent Snugg
+655,6/12/2021,Product C,Electronics,Asia,834,515.37,46.93,Myra Doll
+656,7/31/2021,Product A,Home Goods,Europe,626,39.05,361.58,Kevin Pogosian
+657,11/4/2022,Product A,Home Goods,Europe,948,222.68,33.79,Layne Shackel
+658,5/10/2022,Product B,Clothing,North America,743,974.17,238.86,Doreen Reilinger
+659,8/30/2021,Product A,Home Goods,Europe,667,982.35,245.75,Nanni Jerdein
+660,4/19/2021,Product A,Home Goods,North America,277,294.18,459.86,Marian Ingleson
+661,5/25/2020,Product C,Electronics,Europe,955,289.78,150.1,Murry Thackwray
+662,12/12/2020,Product C,Electronics,Europe,768,532.41,0.25,Chuck Andree
+663,7/15/2022,Product B,Clothing,Europe,108,137.82,94.47,Fredelia Pellingar
+664,1/25/2020,Product A,Clothing,Europe,429,116.21,156.38,Clerissa Cancellieri
+665,6/28/2022,Product B,Electronics,Europe,680,822.45,71.38,Maxy McCaughran
+666,7/16/2020,Product C,Clothing,North America,257,113.4,245.09,Payton Mensler
+667,12/20/2022,Product A,Electronics,North America,1000,942.24,242.63,Avictor Wibrow
+668,12/2/2021,Product C,Electronics,North America,689,699.29,488.0,Marysa Spearett
+669,1/13/2021,Product B,Electronics,Europe,806,446.28,83.48,Vivyanne Gaven
+670,6/13/2021,Product A,Electronics,Europe,852,330.81,179.96,Alleen Lattimer
+671,8/11/2021,Product C,Clothing,Asia,250,427.37,213.17,Latrina Pinshon
+672,4/1/2022,Product C,Home Goods,Europe,611,718.24,306.62,Rivi Corness
+673,8/26/2020,Product B,Home Goods,North America,845,637.45,203.35,Celeste Tarplee
+674,11/20/2022,Product A,Electronics,Europe,139,344.87,409.73,Phil Doyley
+675,4/13/2021,Product B,Electronics,Europe,904,230.4,419.11,Tabina Reichert
+676,8/1/2021,Product C,Electronics,Asia,667,800.5,370.23,Dacia Scourgie
+677,1/19/2021,Product A,Electronics,Europe,333,128.65,450.05,Sapphire Chatten
+678,12/25/2021,Product A,Clothing,North America,252,89.65,364.01,Lise Baalham
+679,3/23/2022,Product B,Clothing,North America,722,395.31,312.38,Cedric Shee
+680,4/24/2021,Product C,Home Goods,Europe,839,940.89,199.65,Arny Varfolomeev
+681,1/11/2021,Product A,Home Goods,Europe,752,200.33,307.75,Clotilda Craighead
+682,4/13/2021,Product B,Home Goods,Europe,961,990.25,262.96,Rolph McTrustam
+683,2/13/2022,Product A,Clothing,North America,400,579.98,224.76,Sacha Seckom
+684,4/4/2020,Product C,Clothing,North America,919,971.28,299.04,Mikkel Maxwaile
+685,5/1/2021,Product B,Home Goods,Asia,118,393.76,327.9,Clemence Duckerin
+686,2/22/2020,Product B,Clothing,Asia,846,446.9,374.62,Abby Greatbanks
+687,1/14/2022,Product C,Home Goods,North America,564,270.41,13.82,Daffi Speare
+688,6/18/2021,Product A,Clothing,North America,508,172.55,320.02,Shara Treamayne
+689,12/16/2022,Product B,Clothing,Europe,705,629.36,444.34,Shirl Petry
+690,11/8/2021,Product C,Clothing,North America,924,973.73,414.72,Jennica Daborne
+691,9/5/2020,Product B,Electronics,Asia,554,42.68,283.9,Libbi Youd
+692,12/23/2020,Product B,Electronics,Europe,438,457.23,131.25,Kalina Batey
+693,6/10/2022,Product C,Electronics,Asia,24,692.49,323.71,Rivalee Liggens
+694,10/26/2022,Product C,Electronics,North America,803,266.73,48.76,Fitz Glisenan
+695,1/16/2021,Product A,Electronics,North America,706,192.57,5.38,Pooh Golde
+696,10/21/2020,Product B,Electronics,Asia,824,553.25,267.92,Jaime McVitie
+697,2/10/2021,Product C,Home Goods,North America,271,613.92,69.06,Hedvige Harm
+698,2/15/2022,Product A,Clothing,Asia,251,488.48,380.65,Cyril Wilhelmy
+699,9/20/2020,Product A,Electronics,Europe,659,130.34,414.76,Skylar Sharrier
+700,3/27/2022,Product B,Clothing,North America,252,50.74,315.26,Rex Harkin
+701,5/19/2021,Product A,Electronics,Asia,851,84.76,227.78,Norine Izzett
+702,10/22/2022,Product A,Home Goods,North America,48,196.5,388.25,Nerissa Stean
+703,10/29/2021,Product B,Clothing,Asia,177,988.13,315.51,Alonzo Peete
+704,5/20/2020,Product C,Clothing,Asia,385,706.49,179.35,Vale Surgeoner
+705,9/2/2021,Product A,Electronics,Europe,557,752.12,105.45,Velma Heitz
+706,7/22/2021,Product B,Clothing,Europe,914,828.06,396.6,Hakeem Tolley
+707,5/4/2022,Product A,Electronics,Europe,936,645.54,299.73,Cristie Pentlow
+708,3/16/2020,Product A,Clothing,North America,893,800.91,277.67,Brander Mitford
+709,1/18/2020,Product B,Electronics,Asia,337,627.17,427.31,Grata Miroy
+710,1/9/2020,Product B,Home Goods,Europe,144,296.66,46.98,Genny Curee
+711,11/16/2022,Product C,Clothing,Europe,145,172.03,60.76,Abram Woolaston
+712,7/15/2022,Product A,Home Goods,Asia,680,578.59,480.27,Corbie Shooter
+713,4/27/2020,Product C,Clothing,Europe,341,421.46,255.14,Zahara Southcott
+714,7/10/2022,Product A,Clothing,Europe,69,624.31,261.37,Gregory Attrie
+715,4/2/2022,Product A,Clothing,Asia,13,420.84,328.76,Jaine Feenan
+716,5/12/2022,Product B,Electronics,North America,808,340.84,289.03,Lari Helleckas
+717,10/23/2021,Product B,Home Goods,Europe,709,349.89,441.81,Son Davydkov
+718,9/1/2021,Product C,Clothing,North America,89,904.88,430.65,Pat Parlett
+719,6/25/2022,Product C,Home Goods,Europe,901,549.51,15.6,Monica Sibbering
+720,7/5/2022,Product B,Home Goods,Europe,797,213.18,41.74,Cybill Kellington
+721,5/13/2021,Product B,Home Goods,Asia,75,849.2,400.05,Holly Speers
+722,3/2/2022,Product A,Electronics,North America,835,437.21,274.88,Loy Danielsky
+723,3/20/2020,Product A,Clothing,Europe,53,519.8,261.24,Maurene Bladder
+724,6/26/2022,Product C,Clothing,Europe,262,876.5,11.34,Petronilla Cuxson
+725,5/16/2020,Product C,Clothing,Europe,732,435.25,93.68,Sidney Dunmore
+726,6/8/2020,Product C,Home Goods,Asia,441,555.26,482.51,Miller Mennear
+727,5/7/2020,Product B,Clothing,Asia,780,795.75,162.15,Adoree Jonsson
+728,3/23/2022,Product B,Electronics,Europe,554,995.92,388.74,Phebe Rowlson
+729,1/9/2022,Product B,Electronics,Asia,477,520.57,433.85,Cly Clemson
+730,11/21/2020,Product B,Clothing,Asia,137,778.47,472.87,Ricki Beldham
+731,8/25/2020,Product C,Electronics,Europe,331,774.34,369.03,Scottie Apedaile
+732,4/28/2022,Product A,Electronics,Europe,203,927.17,497.65,Christabella Abbati
+733,7/19/2022,Product A,Home Goods,North America,520,129.9,301.84,Jacinthe Pfeffer
+734,7/5/2022,Product C,Clothing,Asia,316,177.57,98.44,Salmon Tordiffe
+735,5/22/2021,Product C,Electronics,North America,684,186.71,496.95,Bobina Toal
+736,5/13/2021,Product A,Clothing,Europe,47,695.48,31.49,Ilaire Wilbud
+737,6/28/2020,Product B,Clothing,Asia,291,933.34,361.84,Cory Costell
+738,5/12/2022,Product C,Electronics,Europe,336,612.6,402.61,Tanny Abramovic
+739,10/22/2022,Product B,Electronics,Europe,975,162.78,417.73,Meir O'Shiel
+740,10/21/2022,Product C,Clothing,North America,425,430.83,362.92,Brant Stut
+741,11/7/2020,Product B,Clothing,Europe,661,789.82,432.7,Dannie Diegan
+742,8/16/2020,Product A,Electronics,North America,446,147.9,234.26,Mia Gormally
+743,12/24/2021,Product A,Home Goods,Europe,565,663.75,405.07,Alano Hancke
+744,6/9/2021,Product C,Electronics,North America,303,20.27,151.56,Bar Critoph
+745,5/24/2021,Product B,Clothing,Asia,953,644.01,323.38,Mathias Sollitt
+746,5/16/2020,Product B,Electronics,Asia,726,235.15,249.77,Floris Melhuish
+747,12/15/2020,Product C,Clothing,North America,105,176.84,213.8,Petronia Denkin
+748,9/19/2021,Product A,Electronics,Asia,697,632.08,452.47,Tedi Birkmyre
+749,9/20/2020,Product C,Electronics,Europe,991,856.92,102.19,Austin Stollwerck
+750,3/25/2020,Product A,Home Goods,Asia,822,36.04,428.36,Earl McGlaughn
+751,9/23/2022,Product C,Home Goods,North America,337,604.34,153.71,Robbyn Lewton
+752,6/3/2021,Product A,Clothing,Asia,839,398.71,8.86,Tracee Guiraud
+753,7/17/2020,Product C,Home Goods,Asia,543,130.0,266.63,Briant Goghin
+754,7/5/2020,Product B,Clothing,Asia,161,738.45,399.85,Malorie Fake
+755,6/16/2020,Product A,Electronics,North America,256,996.1,84.27,Gabbie Vasser
+756,4/3/2022,Product C,Home Goods,Europe,381,693.89,249.0,Hector Donnersberg
+757,7/15/2020,Product B,Clothing,North America,428,305.28,496.53,Michaela Ruslinge
+758,5/22/2020,Product B,Home Goods,Asia,327,451.47,26.18,Minne Tillman
+759,11/10/2022,Product A,Home Goods,Asia,402,677.57,307.95,Jacquetta Ferenc
+760,10/26/2022,Product A,Clothing,North America,8,24.09,194.98,Broderick Strongitharm
+761,1/8/2021,Product C,Electronics,Asia,411,608.16,141.81,Issy Tyas
+762,6/7/2022,Product C,Clothing,Asia,390,708.25,491.49,Cary Babin
+763,5/3/2022,Product C,Clothing,Asia,929,205.75,98.66,Laurella Gadd
+764,3/29/2022,Product B,Home Goods,Asia,587,444.46,365.81,Marjie Longmire
+765,12/19/2021,Product B,Clothing,Asia,210,224.52,479.4,Cyrillus Bottrell
+766,7/27/2022,Product A,Electronics,Europe,560,862.77,493.48,Kendrick Mateus
+767,5/15/2022,Product C,Clothing,Asia,778,677.59,452.07,Godard Searby
+768,11/7/2020,Product C,Clothing,North America,609,410.46,178.24,Antonius Trott
+769,2/19/2021,Product A,Clothing,Asia,297,995.23,279.32,Rene Devigne
+770,5/6/2022,Product C,Electronics,Europe,597,220.95,98.97,Enrika Andrag
+771,1/30/2022,Product B,Home Goods,Europe,72,677.23,303.74,Rozella Bellefant
+772,7/3/2020,Product C,Home Goods,Europe,994,718.97,181.54,Arron Braunstein
+773,10/3/2021,Product B,Home Goods,Europe,664,227.73,129.59,Teresita Matzaitis
+774,1/10/2020,Product B,Electronics,Asia,329,293.95,227.75,Jeniece Brandel
+775,4/7/2021,Product C,Home Goods,Europe,852,688.59,93.33,Jackie Beernt
+776,9/14/2020,Product C,Clothing,Europe,200,849.9,299.79,Wright Feek
+777,6/18/2020,Product C,Clothing,Asia,796,50.16,336.37,Buck Allicock
+778,1/16/2020,Product A,Electronics,North America,546,376.53,416.98,Cathrin McShea
+779,11/25/2022,Product B,Home Goods,Asia,78,959.84,160.81,Anastasie Rudall
+780,1/9/2022,Product A,Home Goods,Asia,94,245.34,434.24,Caria Baudet
+781,3/28/2020,Product B,Electronics,Europe,184,790.44,53.0,Harli Rissom
+782,11/26/2021,Product C,Electronics,Europe,697,907.69,151.29,Nichol Burchill
+783,9/20/2020,Product C,Clothing,North America,949,81.84,194.23,Bran Bunford
+784,1/16/2022,Product A,Electronics,Europe,508,659.91,448.39,Ekaterina Huntriss
+785,8/24/2020,Product A,Home Goods,North America,23,248.5,200.38,Nell Bicksteth
+786,7/21/2020,Product C,Electronics,Asia,106,761.18,470.18,Gonzales Oxer
+787,9/29/2020,Product B,Home Goods,North America,546,69.56,209.4,Jorie Ratter
+788,4/16/2022,Product C,Electronics,North America,678,288.3,374.17,Nissy Boswell
+789,4/18/2022,Product B,Clothing,Europe,112,598.09,448.97,Lesli Wake
+790,9/9/2020,Product C,Home Goods,North America,439,35.23,54.66,Meriel Songhurst
+791,5/20/2020,Product B,Electronics,Asia,704,80.53,388.77,Timmi Tunnock
+792,5/19/2021,Product B,Home Goods,Asia,746,764.67,265.16,Cherilynn Insall
+793,2/1/2022,Product B,Clothing,Europe,508,620.51,301.74,Vickie Roussel
+794,11/28/2021,Product C,Home Goods,Asia,687,39.29,221.33,Kenn Pattenden
+795,11/30/2022,Product C,Clothing,Asia,510,861.55,246.25,Chaddy Goss
+796,6/23/2022,Product A,Home Goods,North America,582,431.5,105.42,Arlette Baskeyfield
+797,3/12/2020,Product A,Electronics,Asia,779,886.86,57.64,Meris Duce
+798,10/27/2020,Product B,Clothing,Europe,239,202.57,133.58,Zorah Stit
+799,8/18/2022,Product A,Clothing,Asia,588,924.79,128.64,Hestia Sprott
+800,12/1/2021,Product C,Electronics,North America,601,633.84,157.62,Myrvyn Wiltshire
+801,12/10/2020,Product B,Electronics,Europe,414,560.22,307.64,Brod Cameli
+802,1/15/2022,Product B,Home Goods,Europe,419,585.62,156.65,Ulrica Gyrgorwicx
+803,8/9/2021,Product A,Clothing,North America,711,921.86,455.76,Tate Child
+804,1/7/2020,Product B,Home Goods,Europe,699,276.88,464.06,Adda Keeney
+805,12/15/2020,Product B,Home Goods,North America,813,747.72,185.69,Dieter Gamett
+806,7/5/2020,Product B,Electronics,Europe,965,77.36,408.56,Andonis Card
+807,2/26/2021,Product A,Electronics,North America,34,633.53,118.46,Christine Cristofor
+808,12/25/2020,Product C,Clothing,Asia,801,915.96,221.18,Mady Dmitrievski
+809,4/5/2022,Product B,Clothing,Europe,396,518.77,288.08,Odetta Hagard
+810,7/11/2021,Product A,Home Goods,Asia,293,946.44,128.15,Patience Omar
+811,6/6/2022,Product A,Clothing,Asia,976,70.19,339.73,Agace Jinda
+812,3/14/2022,Product C,Clothing,North America,138,304.39,311.53,Wilone Keetch
+813,7/22/2022,Product C,Electronics,Europe,716,647.85,125.49,Phillida Lazell
+814,4/12/2022,Product B,Electronics,North America,53,333.64,265.86,Alexi Rangle
+815,5/22/2020,Product B,Home Goods,North America,39,463.37,13.29,Darda Elcott
+816,12/14/2020,Product A,Home Goods,Europe,789,399.16,264.7,Ilysa Maskall
+817,4/16/2022,Product A,Home Goods,Europe,900,433.82,423.8,Rosanna Dedrick
+818,9/13/2022,Product B,Home Goods,North America,393,234.2,16.28,Ethelind Red
+819,6/19/2022,Product C,Home Goods,Asia,681,723.26,194.95,Oneida Schwerin
+820,9/1/2020,Product B,Clothing,Asia,896,631.72,380.29,Reg Danby
+821,3/30/2021,Product C,Home Goods,Europe,833,933.14,347.03,Sande Jerrems
+822,8/17/2021,Product C,Home Goods,North America,944,723.72,89.11,Frasier Rymour
+823,2/16/2022,Product B,Clothing,Asia,306,885.74,242.13,Pat Lowles
+824,10/7/2022,Product B,Electronics,North America,726,891.34,402.44,Herculie Cuppleditch
+825,6/13/2022,Product C,Electronics,Europe,249,206.22,280.47,Tabb Robbings
+826,4/16/2022,Product C,Electronics,Europe,660,381.48,112.92,Antonino Bolzmann
+827,9/11/2021,Product B,Clothing,North America,759,249.87,206.39,Karoly Palomba
+828,6/13/2021,Product A,Clothing,North America,476,173.04,116.07,Laraine Carbery
+829,5/26/2021,Product A,Electronics,Europe,138,509.29,58.48,Kiley O'Kielt
+830,8/16/2022,Product C,Electronics,Europe,966,397.86,427.83,Chevalier Casburn
+831,4/1/2022,Product C,Electronics,Europe,52,864.59,240.5,Carl Pickhaver
+832,4/18/2022,Product A,Clothing,North America,53,100.77,498.15,Montague Larciere
+833,6/6/2021,Product C,Electronics,Asia,62,501.32,79.59,Hasheem Benard
+834,9/8/2021,Product A,Electronics,Asia,572,433.47,245.71,Isa Eldered
+835,4/2/2022,Product B,Electronics,Europe,769,509.85,491.33,Bert Gajewski
+836,11/12/2020,Product C,Clothing,North America,164,764.05,309.03,Jami Mahedy
+837,3/11/2022,Product A,Clothing,Asia,135,629.33,499.87,Tanya De Michele
+838,2/12/2021,Product A,Clothing,North America,443,39.46,489.31,Natalie Donat
+839,1/24/2020,Product C,Electronics,North America,724,231.96,294.64,Bibbie Armer
+840,11/29/2021,Product C,Clothing,Europe,182,680.49,47.02,Annelise Josefson
+841,9/14/2020,Product A,Electronics,Asia,723,81.98,402.9,Tull Arrol
+842,9/11/2020,Product B,Home Goods,Asia,755,226.17,154.66,Euell Rosellini
+843,9/4/2022,Product B,Home Goods,North America,89,885.93,184.01,Darryl Sancto
+844,7/15/2020,Product A,Home Goods,Europe,534,73.55,482.14,Joline McAline
+845,6/7/2021,Product A,Electronics,North America,492,993.86,442.2,Rochester Bridgement
+846,9/27/2022,Product A,Clothing,North America,439,87.8,421.9,Savina Tellenbroker
+847,2/19/2020,Product A,Home Goods,Europe,296,852.58,427.58,Bertrando Chinery
+848,4/15/2021,Product C,Clothing,Europe,766,832.58,289.69,Quent Scade
+849,11/11/2020,Product A,Clothing,Asia,943,399.38,326.56,Tami Kleinmann
+850,4/17/2022,Product B,Clothing,North America,97,342.17,395.8,Coleman Hillaby
+851,3/10/2021,Product A,Clothing,North America,160,30.95,171.5,Kristos Chardin
+852,11/9/2021,Product C,Home Goods,Asia,776,287.26,72.27,Kendal Batcock
+853,6/12/2020,Product A,Clothing,Asia,444,716.48,292.35,Adrian Lochead
+854,12/11/2020,Product C,Home Goods,North America,392,968.71,268.71,Augy Golly
+855,5/16/2020,Product B,Electronics,North America,629,60.49,200.95,Cleopatra Stainton
+856,10/11/2020,Product A,Clothing,Asia,142,343.89,323.6,Mellisa Harken
+857,10/23/2022,Product C,Home Goods,Europe,593,11.8,312.83,Gypsy Reaney
+858,2/26/2021,Product A,Clothing,Asia,85,934.09,469.24,Vail Buckenham
+859,1/17/2022,Product A,Home Goods,Asia,670,695.29,381.72,Cosmo Owers
+860,3/6/2022,Product B,Home Goods,Asia,127,167.92,154.6,Marci Blaze
+861,4/29/2021,Product B,Electronics,North America,40,519.23,19.49,Jeremiah Goodwyn
+862,12/11/2020,Product C,Electronics,North America,156,352.08,190.43,Adlai Tawse
+863,12/27/2021,Product C,Electronics,Europe,821,625.78,383.96,Fidole Skivington
+864,5/30/2022,Product A,Electronics,Asia,708,303.32,344.04,Homere Errol
+865,9/15/2021,Product B,Clothing,North America,910,134.22,263.61,Jenni Potteridge
+866,3/7/2021,Product A,Clothing,North America,607,731.43,425.51,Nolly Arnaudin
+867,10/16/2022,Product B,Clothing,North America,868,754.88,49.78,Pamella Trathen
+868,4/20/2022,Product B,Electronics,Asia,761,862.57,31.59,Christabella Wisher
+869,3/9/2020,Product A,Clothing,North America,458,793.03,352.45,Madlin Coveny
+870,2/20/2022,Product C,Home Goods,North America,618,397.89,105.64,Isa Birkwood
+871,2/20/2021,Product C,Clothing,Europe,887,319.54,493.31,Rodge Ruckman
+872,12/20/2022,Product B,Clothing,North America,360,581.51,402.41,Patton Robinet
+873,8/11/2021,Product B,Clothing,Europe,103,807.7,325.76,Fairlie Chazerand
+874,4/28/2022,Product A,Home Goods,Europe,947,279.1,444.41,Diarmid Cumpsty
+875,3/7/2021,Product B,Electronics,Europe,287,338.81,69.98,Meredithe Drance
+876,5/29/2022,Product C,Clothing,North America,437,389.83,3.15,Horatius Olivelli
+877,11/23/2021,Product C,Electronics,North America,617,843.35,121.95,Gilles Petrasek
+878,2/2/2021,Product B,Clothing,Europe,792,542.64,86.15,Frederich Burnell
+879,2/15/2020,Product A,Electronics,Asia,657,179.99,414.7,Adelice Ebbin
+880,11/10/2020,Product A,Home Goods,North America,698,961.03,425.21,Tally Richichi
+881,6/17/2021,Product A,Electronics,Asia,68,806.88,216.54,Dwayne Nilles
+882,3/11/2021,Product B,Clothing,Europe,972,261.32,205.53,Stavro Van der Merwe
+883,6/24/2021,Product B,Home Goods,Asia,386,193.01,215.43,Nanice Polsin
+884,11/27/2020,Product B,Clothing,Europe,902,718.61,435.63,Sinclare Wixey
+885,7/21/2020,Product B,Electronics,Europe,220,25.13,199.58,Audry McNeachtain
+886,12/21/2020,Product B,Home Goods,North America,448,947.65,290.1,Keane Reany
+887,10/29/2020,Product A,Electronics,North America,460,670.6,324.49,Esther Dunstall
+888,5/4/2020,Product A,Home Goods,North America,476,332.19,398.14,Saw Andrejevic
+889,8/2/2021,Product C,Electronics,North America,33,941.37,104.1,Blaire Coddington
+890,10/29/2022,Product A,Electronics,Europe,167,738.9,464.96,Ignacio Gill
+891,2/25/2020,Product B,Clothing,Asia,684,26.44,36.2,Laural Itzkowicz
+892,9/19/2021,Product A,Clothing,Asia,184,568.34,338.64,Mariejeanne Schlagtmans
+893,1/28/2022,Product B,Home Goods,North America,865,895.57,29.46,Clair Janzen
+894,4/2/2021,Product A,Electronics,Asia,229,994.76,295.91,Stacee Kellough
+895,12/19/2021,Product A,Home Goods,Europe,788,282.61,311.14,Ruth Shafto
+896,12/30/2020,Product A,Clothing,Europe,936,229.38,398.08,Gay Borne
+897,11/30/2021,Product A,Electronics,Asia,562,47.14,153.59,Fawnia Stolze
+898,6/22/2021,Product C,Home Goods,Asia,526,984.32,424.9,Osborn Flageul
+899,3/3/2021,Product B,Clothing,North America,652,383.64,192.25,Goddard Hinners
+900,10/3/2021,Product C,Clothing,Europe,623,918.74,95.74,Stanislaus Dallinder
+901,12/19/2022,Product A,Electronics,Europe,649,763.53,91.1,Micheline Wisniewski
+902,10/17/2021,Product B,Electronics,Asia,279,352.43,288.39,Karilynn Leet
+903,8/6/2021,Product C,Electronics,Asia,743,215.59,24.01,Irma Edinburough
+904,11/30/2020,Product B,Clothing,Asia,197,36.61,370.04,Thurstan Gayforth
+905,9/17/2020,Product A,Home Goods,Europe,29,220.07,52.93,Oralia Lebang
+906,6/14/2022,Product B,Electronics,Europe,80,459.55,418.83,Yurik Faucherand
+907,12/20/2020,Product C,Home Goods,North America,220,826.77,464.23,Ralf Bowfin
+908,5/17/2022,Product C,Home Goods,North America,72,880.62,139.08,Evangelia Behnke
+909,10/15/2021,Product C,Electronics,Asia,968,784.21,396.28,Hillary Koppeck
+910,8/27/2020,Product A,Clothing,Europe,482,657.01,448.35,Odey Bloxsom
+911,11/16/2022,Product A,Electronics,Asia,146,797.18,381.12,Sophi Vann
+912,7/29/2021,Product B,Clothing,North America,64,356.97,279.14,Peri Poznanski
+913,3/29/2020,Product C,Electronics,Europe,499,578.03,402.41,Alphonse Kacheler
+914,1/27/2022,Product C,Clothing,Europe,346,877.0,470.25,Denise Hollow
+915,6/22/2020,Product A,Home Goods,Europe,115,690.25,296.81,Vivianna Jansens
+916,8/29/2021,Product C,Electronics,North America,327,324.72,390.54,Fidelity Songer
+917,4/7/2020,Product B,Home Goods,North America,313,485.78,461.25,Ritchie Conlaund
+918,9/4/2021,Product C,Home Goods,North America,816,719.56,332.06,Lorin Geale
+919,3/20/2022,Product C,Electronics,Europe,952,501.28,366.67,Ernesta MacKeogh
+920,9/30/2020,Product C,Home Goods,North America,540,355.56,206.43,Jayme Waugh
+921,12/6/2020,Product A,Home Goods,North America,400,822.51,370.17,Sergei Fiddiman
+922,1/30/2020,Product A,Electronics,Asia,487,376.67,130.76,Alon Drinnan
+923,12/20/2022,Product B,Electronics,Europe,629,836.45,443.54,Winny Samwyse
+924,2/6/2021,Product C,Clothing,North America,253,999.81,90.38,Rochette McGebenay
+925,1/23/2022,Product B,Home Goods,Asia,815,769.4,297.96,Noel Norvill
+926,11/16/2021,Product A,Home Goods,North America,613,593.14,33.61,Agnes Ondrousek
+927,5/10/2020,Product C,Electronics,Europe,527,910.05,307.84,Glenn Lally
+928,4/2/2021,Product A,Home Goods,Europe,975,891.77,154.33,Rufus McMurrugh
+929,6/5/2021,Product B,Clothing,Asia,746,526.41,82.63,Tomaso Grouse
+930,1/31/2020,Product B,Electronics,Europe,576,280.0,38.76,Johny Normansell
+931,3/6/2021,Product A,Clothing,Asia,148,709.55,476.1,Lauri Mildmott
+932,1/5/2022,Product A,Clothing,Asia,781,480.83,23.12,Dreddy Iwanowski
+933,1/10/2020,Product A,Home Goods,North America,262,88.84,215.6,Avril Ladley
+934,12/20/2020,Product A,Home Goods,North America,35,507.9,436.58,Raeann Josefson
+935,8/5/2022,Product B,Home Goods,Asia,618,445.2,73.11,Derry Wilcinskis
+936,7/29/2021,Product B,Clothing,North America,827,828.17,186.21,Selle MacNeice
+937,11/18/2022,Product B,Home Goods,North America,194,781.22,369.1,Gaby MacGaughie
+938,2/1/2022,Product A,Clothing,Asia,890,520.72,100.2,Madalena Dashper
+939,9/3/2020,Product A,Clothing,North America,670,64.04,365.05,Westbrooke Sara
+940,9/10/2020,Product C,Electronics,North America,272,308.26,109.51,Babs Gueny
+941,5/19/2020,Product A,Electronics,Europe,350,733.94,122.13,Teriann Berget
+942,12/3/2021,Product C,Electronics,North America,411,541.16,77.77,Maurie Sego
+943,6/17/2021,Product B,Electronics,Asia,963,464.6,196.22,Trude Indgs
+944,12/2/2021,Product A,Electronics,North America,30,620.04,163.15,Laureen Jamieson
+945,6/28/2022,Product B,Clothing,Asia,162,715.42,191.11,Roxy Gerrelts
+946,8/9/2020,Product C,Clothing,Europe,759,66.11,188.06,Isidor Barford
+947,4/21/2020,Product A,Home Goods,North America,127,156.47,364.11,Griff Blanchflower
+948,9/6/2022,Product B,Clothing,Europe,253,143.63,174.77,Guss Mc Andrew
+949,2/10/2022,Product C,Clothing,North America,409,558.3,255.81,Wilmer Argue
+950,6/4/2020,Product A,Clothing,North America,329,177.92,53.0,Melisande Manueau
+951,9/11/2020,Product B,Home Goods,Europe,700,395.95,36.14,Clerc Daoust
+952,9/23/2022,Product B,Clothing,Asia,59,294.54,299.16,Lanna Titmus
+953,12/9/2021,Product A,Home Goods,North America,765,5.45,55.57,Kimberley Paiton
+954,4/3/2022,Product A,Home Goods,Asia,905,226.5,342.34,Jacques Conningham
+955,11/17/2022,Product B,Electronics,Europe,200,551.13,187.27,Steffen Deeney
+956,4/15/2022,Product C,Clothing,North America,970,599.31,324.5,Aurelia Sondon
+957,9/20/2020,Product C,Clothing,Asia,805,670.82,224.03,Meara Casson
+958,10/10/2022,Product C,Clothing,Europe,783,477.66,493.83,Mercie Varnes
+959,8/8/2020,Product B,Clothing,North America,612,790.44,322.31,Bren Girardet
+960,1/17/2021,Product B,Electronics,Europe,67,858.69,405.3,Morten Chastenet
+961,6/21/2022,Product A,Home Goods,Asia,256,227.85,399.12,Moishe MacMichael
+962,8/17/2020,Product B,Electronics,Europe,653,394.88,426.99,Abagail Elton
+963,2/2/2020,Product C,Home Goods,Asia,435,675.61,26.39,Halli Skryne
+964,2/11/2022,Product A,Clothing,North America,371,435.08,479.62,Gwendolin Rysom
+965,11/14/2022,Product C,Clothing,Europe,164,534.15,389.42,Cassi O' Brian
+966,2/13/2021,Product A,Clothing,Europe,670,142.01,264.36,Bartholomeus Radolf
+967,4/29/2020,Product B,Home Goods,North America,864,473.24,404.89,Carree Redhills
+968,4/1/2021,Product C,Electronics,Asia,105,550.17,371.26,Vladamir Fawlo
+969,10/31/2021,Product B,Home Goods,North America,920,36.41,4.61,Ryon Mushawe
+970,11/14/2020,Product B,Electronics,Asia,138,396.19,425.1,Tobey Waghorne
+971,1/5/2022,Product C,Home Goods,Asia,393,955.41,405.75,Alane Pawlata
+972,8/28/2021,Product C,Home Goods,North America,851,423.63,69.51,Jere Gwatkin
+973,9/19/2021,Product B,Electronics,North America,94,466.15,53.28,Jo-anne Giraldez
+974,5/4/2020,Product C,Clothing,Europe,390,941.84,311.3,Yorke Stranieri
+975,9/5/2020,Product A,Electronics,Europe,250,839.19,137.91,Adella Baggally
+976,7/14/2020,Product B,Home Goods,Europe,901,725.9,418.23,Yul Grewcock
+977,4/19/2021,Product B,Home Goods,North America,987,40.76,19.65,Pru Bratch
+978,5/17/2021,Product C,Clothing,Europe,393,35.68,202.21,Luciano Rubinchik
+979,9/3/2021,Product C,Clothing,North America,930,267.64,175.45,Helli Le Strange
+980,10/12/2022,Product A,Home Goods,Asia,268,317.87,404.2,Cobby Van der Brug
+981,1/25/2020,Product B,Clothing,North America,161,571.63,420.19,Davin Tuttle
+982,12/18/2021,Product B,Home Goods,Europe,797,748.27,100.37,Dorie Washtell
+983,10/25/2021,Product B,Electronics,Europe,473,879.13,12.0,Sigismond Nend
+984,9/15/2021,Product B,Electronics,Europe,818,394.9,46.63,Ansley Strevens
+985,9/21/2020,Product A,Clothing,Europe,317,507.64,238.81,Gerick Tash
+986,3/26/2022,Product B,Electronics,North America,490,192.8,450.85,Opaline Slimon
+987,4/4/2020,Product A,Electronics,Asia,266,143.05,259.6,Claus Lovstrom
+988,10/2/2020,Product C,Home Goods,Asia,464,35.38,406.25,Cary Slator
+989,8/3/2021,Product B,Clothing,Asia,215,104.3,192.05,Bernadette Woodyeare
+990,8/23/2022,Product C,Clothing,North America,156,472.29,25.53,Saree Chinery
+991,3/22/2022,Product B,Clothing,Europe,210,555.03,157.94,Adolphus Stair
+992,3/16/2020,Product C,Home Goods,Asia,546,938.14,496.67,Patty Biddiss
+993,8/16/2021,Product B,Electronics,Europe,736,876.22,52.8,Karalynn Barrack
+994,1/17/2022,Product C,Clothing,Europe,611,443.57,437.55,Noami Boutellier
+995,10/9/2022,Product A,Clothing,Europe,498,211.72,341.39,Zacharias Sadry
+996,10/31/2020,Product C,Clothing,Europe,847,798.67,105.94,Rina Turnor
+997,9/10/2020,Product A,Home Goods,North America,518,341.3,189.83,Valaria Sabathier
+998,8/18/2022,Product B,Clothing,Europe,845,977.09,146.99,Denys Deppen
+999,6/14/2022,Product B,Clothing,Asia,115,60.9,395.24,Reuven Langstaff
+1000,6/23/2020,Product C,Electronics,North America,533,381.1,487.22,Bent Climo
+)

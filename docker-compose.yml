@@ -36,6 +36,7 @@ services:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - ./plugins:/opt/airflow/plugins
+      - ./data:/opt/airflow/data  # Montar la carpeta de datos
     ports:
       - "8081:8080"  # Exponiendo Airflow en el puerto 8081
     depends_on:
